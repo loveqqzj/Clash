@@ -1,2 +1,2 @@
-.asuscomm.com
-.myqnapcloud.com
++.asuscomm.com
++.myqnapcloud.com
