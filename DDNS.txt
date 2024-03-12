@@ -1,2 +1,3 @@
-.asuscomm.com
-.myqnapcloud.com
+payload:
+  - DOMAIN-SUFFIX,asuscomm.com
+  - DOMAIN-SUFFIX,myqnapcloud.com
