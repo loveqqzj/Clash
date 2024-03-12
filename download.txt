@@ -1,0 +1,34 @@
+payload:
+    # > 其他
+  - DOMAIN-SUFFIX,unsplash.com
+  - DOMAIN-SUFFIX,pixeldrain.com
+    # > 网盘
+  - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-KEYWORD,mega
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-KEYWORD,filen
+  - DOMAIN-SUFFIX,archive.org
+    # > Pornhub
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-KEYWORD,pornhub
+  - DOMAIN-SUFFIX,phncdn.com
+    # > YouTube
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,googlevideo.com
+    # > Jav
+  - DOMAIN-SUFFIX,ohentai.org
+  - DOMAIN-SUFFIX,b-cdn.net
+  - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,dood.video
+  - DOMAIN-SUFFIX,cdnrobot.xyz
+  - DOMAIN-SUFFIX,noodlemagazine.com
+  - DOMAIN-SUFFIX,pvvstream.pro
+  - DOMAIN-SUFFIX,mat6tube.com
+  - DOMAIN-SUFFIX,mycdn.me
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhcdn.com
+    # > iWara.TV
+  - DOMAIN-SUFFIX,iwara.tv
