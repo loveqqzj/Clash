@@ -10,6 +10,23 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,twdown.net
 
+  # > AdGuard
+  - DOMAIN-SUFFIX,adguard.app
+  - DOMAIN-SUFFIX,adguard.com
+  - DOMAIN-SUFFIX,adguard.info
+  - DOMAIN-SUFFIX,adguard.io
+  - DOMAIN-SUFFIX,adguard.org
+  - DOMAIN-SUFFIX,adtidy.net
+  - DOMAIN-SUFFIX,adtidy.org
+  - DOMAIN-SUFFIX,agrd.io
+  # adguard dns
+  - DOMAIN-SUFFIX,adguard-dns.com
+  - DOMAIN-SUFFIX,adguard-dns.io
+  # adguard vpn
+  - DOMAIN-SUFFIX,adguardvpn.com
+  - DOMAIN-SUFFIX,adguard-vpn.com
+  - DOMAIN-SUFFIX,adguard-vpn.online
+
   # > Bandwagon
   - DOMAIN-SUFFIX,bwh1.net
   - DOMAIN-SUFFIX,bwh88.net
