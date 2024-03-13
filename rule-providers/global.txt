@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,giveawayoftheday.com
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,v2ex.com
 
   # > AdGuard
   - DOMAIN-SUFFIX,adguard.com
