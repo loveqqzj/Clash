@@ -4,17 +4,11 @@ payload:
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,driverpack.io
-  - DOMAIN-SUFFIX,duyaoss.com
-  - DOMAIN-SUFFIX,limbopro.xyz
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,giveawayoftheday.com
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,v2ex.com
-
-  # > AdGuard
-  - DOMAIN-SUFFIX,adguard.com
-  - DOMAIN-SUFFIX,adtidy.org
+  - DOMAIN-SUFFIX,twdown.net
 
   # > Bandwagon
   - DOMAIN-SUFFIX,bwh1.net
@@ -37,6 +31,11 @@ payload:
   - DOMAIN-SUFFIX,faststone.org
   - DOMAIN-SUFFIX,faststonesoft.net
   - DOMAIN-SUFFIX,imagingtips.com
+
+  # > Forum & Blog
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,duyaoss.com
+  - DOMAIN-SUFFIX,limbopro.xyz
 
   # > Github
   - DOMAIN-SUFFIX,git.io
