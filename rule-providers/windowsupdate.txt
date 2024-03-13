@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-KEYWORD,update.microsoft.com
+  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
+  - DOMAIN-SUFFIX,download.microsoft.com
+  - DOMAIN-SUFFIX,wustat.windows.com
+  - DOMAIN-SUFFIX,ntservicepack.microsoft.com
+  - DOMAIN-SUFFIX,forefrontdl.microsoft.com
+  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+  - DOMAIN-KEYWORD,prod.do.dsp.mp.microsoft.com
+  - DOMAIN-KEYWORD,windows.com.akadns.net
+  - DOMAIN-SUFFIX,officecdn.microsoft.com
