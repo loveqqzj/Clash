@@ -23,6 +23,18 @@ payload:
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,apple.com.edgekey.net
 
+  # > CDN
+  - DOMAIN-SUFFIX,ccgslb.com
+  - DOMAIN-SUFFIX,ccgslb.net
+  - DOMAIN-SUFFIX,chinanetcenter.com
+  - DOMAIN-SUFFIX,meixincdn.com
+  - DOMAIN-SUFFIX,ourdvs.com
+  - DOMAIN-SUFFIX,staticdn.net
+  - DOMAIN-SUFFIX,wangsu.com
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,loli.net
+  - DOMAIN-SUFFIX,bootcss.com
+
   # > DDNS
   - DOMAIN-SUFFIX,asuscomm.com
   - DOMAIN-SUFFIX,myqnapcloud.com
