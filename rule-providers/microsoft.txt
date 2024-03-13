@@ -1,3 +1,4 @@
+payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,visualstudio.com
