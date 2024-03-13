@@ -1,13 +1,12 @@
 payload:
-    # > 其他
-  - DOMAIN-SUFFIX,unsplash.com
-  - DOMAIN-SUFFIX,pixeldrain.com
     # > 网盘
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,mega
   - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,mypikpak.net
   - DOMAIN-KEYWORD,filen
   - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,pixeldrain.com
     # > Pornhub
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-KEYWORD,pornhub
