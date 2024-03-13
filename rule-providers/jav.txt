@@ -18,6 +18,14 @@ payload:
   - DOMAIN-SUFFIX,netcdn.space
   - DOMAIN-SUFFIX,clcassd.com
 
+  # > 萌幻之乡
+  - DOMAIN-SUFFIX,hmoeh.com
+  - DOMAIN-SUFFIX,hmoe.link
+  - DOMAIN-SUFFIX,xhacgn.com
+  - DOMAIN-SUFFIX,imgcap.xyz
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,chkaja.com
+
   # > JavDB
   - DOMAIN-SUFFIX,jdbimgs.com
   - DOMAIN-KEYWORD,javdb
