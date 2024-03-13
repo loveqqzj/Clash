@@ -11,19 +11,19 @@ payload:
   - DOMAIN-SUFFIX,theporndude.com
   - DOMAIN-SUFFIX,e-hentai.org
   
-  #AVMOO
+  # > AVMOO
   - DOMAIN-KEYWORD,avmoo
   - DOMAIN-KEYWORD,avsox
   - DOMAIN-SUFFIX,tellme.pw
   - DOMAIN-SUFFIX,netcdn.space
   - DOMAIN-SUFFIX,clcassd.com
 
-  #JavDB
+  # > JavDB
   - DOMAIN-SUFFIX,jdbimgs.com
   - DOMAIN-KEYWORD,javdb
   - DOMAIN-SUFFIX,jdbstatic.com
 
-  #Javbus
+  # > Javbus
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-SUFFIX,javcdn.pw
   - DOMAIN-SUFFIX,cdnbus.cloud
@@ -31,7 +31,7 @@ payload:
   - DOMAIN-SUFFIX,javstore.net
   - DOMAIN-SUFFIX,javcdn.cc
 
-   #Torrent
+  # > Torrent
   - DOMAIN-KEYWORD,btsow
   - DOMAIN-KEYWORD,btdig
   - DOMAIN-KEYWORD,torrentkitty
