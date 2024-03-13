@@ -19,8 +19,9 @@ payload:
   - DOMAIN-SUFFIX,clcassd.com
 
   #JavDB
-  - DOMAIN-KEYWORD,javdb
   - DOMAIN-SUFFIX,jdbimgs.com
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-SUFFIX,jdbstatic.com
 
   #Javbus
   - DOMAIN-KEYWORD,javbus
@@ -28,6 +29,8 @@ payload:
   - DOMAIN-SUFFIX,cdnbus.cloud
   - DOMAIN-SUFFIX,busjav.bid
   - DOMAIN-SUFFIX,javstore.net
+  - DOMAIN-SUFFIX,javcdn.cc
+
    #Torrent
   - DOMAIN-KEYWORD,btsow
   - DOMAIN-KEYWORD,btdig
