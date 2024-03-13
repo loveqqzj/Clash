@@ -18,3 +18,16 @@ payload:
   - 'fc00::/7'
   - 'fe80::/10'
   - 'ff00::/8'
+
+  # > 私有网络域名
+  - '+.plex.direct'
+  - 'asusrouter.com'
+  - 'router.asus.com'
+  - 'www.asusrouter.com'
+  - '+.lan'
+  - '+.localdomain'
+  - '+.example'
+  - '+.invalid'
+  - '+.localhost'
+  - '+.test'
+  - '+.local'
