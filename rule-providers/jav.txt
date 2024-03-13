@@ -1,0 +1,35 @@
+payload:
+  # > Jav
+  - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN-SUFFIX,jav321.com
+  - DOMAIN-SUFFIX,sis001.com
+  - DOMAIN-SUFFIX,picturelol.com
+  - DOMAIN-SUFFIX,imagetwist.com
+  - DOMAIN-SUFFIX,img1024.net
+  - DOMAIN-SUFFIX,blogjav.net
+  - DOMAIN-SUFFIX,pixhost.to
+  - DOMAIN-SUFFIX,theporndude.com
+  - DOMAIN-SUFFIX,e-hentai.org
+  
+  #AVMOO
+  - DOMAIN-KEYWORD,avmoo
+  - DOMAIN-KEYWORD,avsox
+  - DOMAIN-SUFFIX,tellme.pw
+  - DOMAIN-SUFFIX,netcdn.space
+  - DOMAIN-SUFFIX,clcassd.com
+
+  #JavDB
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-SUFFIX,jdbimgs.com
+
+  #Javbus
+  - DOMAIN-KEYWORD,javbus
+  - DOMAIN-SUFFIX,javcdn.pw
+  - DOMAIN-SUFFIX,cdnbus.cloud
+  - DOMAIN-SUFFIX,busjav.bid
+  - DOMAIN-SUFFIX,javstore.net
+   #Torrent
+  - DOMAIN-KEYWORD,btsow
+  - DOMAIN-KEYWORD,btdig
+  - DOMAIN-KEYWORD,torrentkitty
+  - DOMAIN-SUFFIX,sukebei.nyaa.si
