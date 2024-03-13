@@ -1,0 +1,20 @@
+payload:
+  # > draw.io
+  - DOMAIN-SUFFIX,draw.io
+  - DOMAIN-SUFFIX,diagrams.net
+  # > Imazing
+  - DOMAIN-SUFFIX,imazing.com
+  - DOMAIN-SUFFIX,devmate.com
+  - DOMAIN-SUFFIX,devmate.io
+  
+  ###Torrent
+  - DOMAIN-KEYWORD,btsow
+  - DOMAIN-SUFFIX,sukebei.nyaa.si
+
+  # > Software & Hardware
+  - DOMAIN-SUFFIX,rizonesoft.com
+
+  # > Tampermonkey
+  - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,sleazyfork.org
