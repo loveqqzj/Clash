@@ -1,18 +1,51 @@
 payload:
+  # > other
+  - DOMAIN-SUFFIX,rizonesoft.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,qnap.com
+  - DOMAIN-SUFFIX,driverpack.io
+  - DOMAIN-SUFFIX,duyaoss.com
+  - DOMAIN-SUFFIX,limbopro.xyz
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,giveawayoftheday.com
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,cloudflare.com
+
+  # > AdGuard
+  - DOMAIN-SUFFIX,adguard.com
+  - DOMAIN-SUFFIX,adtidy.org
+
+  # > Bandwagon
+  - DOMAIN-SUFFIX,bwh1.net
+  - DOMAIN-SUFFIX,bwh88.net
+  - DOMAIN-SUFFIX,bandwagonhost.com
+  - DOMAIN-SUFFIX,justmysocks.net
+  - DOMAIN-SUFFIX,justmysocks1.net
+  - DOMAIN-SUFFIX,justmysocks2.net
+  - DOMAIN-SUFFIX,justmysocks4.net
+
+  # > Daum Potplayer
+  - DOMAIN-SUFFIX,daum.net
+  - DOMAIN-SUFFIX,daumcdn.net
+
   # > draw.io
   - DOMAIN-SUFFIX,draw.io
   - DOMAIN-SUFFIX,diagrams.net
+
+  # > FastStone
+  - DOMAIN-SUFFIX,faststone.org
+  - DOMAIN-SUFFIX,faststonesoft.net
+  - DOMAIN-SUFFIX,imagingtips.com
+
+  # > Github
+  - DOMAIN-SUFFIX,git.io
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubassets.com
+
   # > Imazing
   - DOMAIN-SUFFIX,imazing.com
   - DOMAIN-SUFFIX,devmate.com
   - DOMAIN-SUFFIX,devmate.io
-  
-  ###Torrent
-  - DOMAIN-KEYWORD,btsow
-  - DOMAIN-SUFFIX,sukebei.nyaa.si
-
-  # > Software & Hardware
-  - DOMAIN-SUFFIX,rizonesoft.com
 
   # > Tampermonkey
   - DOMAIN-SUFFIX,tampermonkey.net
