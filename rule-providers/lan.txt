@@ -31,3 +31,5 @@ payload:
   - '+.localhost'
   - '+.test'
   - '+.local'
+  - 'clash.razord.top'
+  - 'yacd.haishan.me'
