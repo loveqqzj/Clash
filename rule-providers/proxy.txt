@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubusercontent.com
 
   # > Google
   - DOMAIN-SUFFIX,gvt0.com
