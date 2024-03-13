@@ -76,6 +76,11 @@ payload:
   - DOMAIN-SUFFIX,devmate.com
   - DOMAIN-SUFFIX,devmate.io
 
+  # > Tampermonkey
+  - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,sleazyfork.org
+
   # > Telegram
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tdesktop.com
@@ -108,7 +113,28 @@ payload:
   - IP-CIDR6,2001:b28:f23c::/47
   - IP-CIDR6,2001:b28:f23f::/48
   - IP-CIDR6,2a0a:f280::/32
-  # > Tampermonkey
-  - DOMAIN-SUFFIX,tampermonkey.net
-  - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,sleazyfork.org
+
+  # > Twitter
+  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,cms-twdigitalassets.com
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,tellapart.com
+  - DOMAIN-SUFFIX,tweetdeck.com
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,twitter.biz
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twitter.jp
+  - DOMAIN-SUFFIX,twittercommunity.com
+  - DOMAIN-SUFFIX,twitterflightschool.com
+  - DOMAIN-SUFFIX,twitterinc.com
+  - DOMAIN-SUFFIX,twitteroauth.com
+  - DOMAIN-SUFFIX,twitterstat.us
+  - DOMAIN-SUFFIX,twtrdns.net
+  - DOMAIN-SUFFIX,twttr.com
+  - DOMAIN-SUFFIX,twttr.net
+  - DOMAIN-SUFFIX,twvid.com
+  - DOMAIN-SUFFIX,vine.co
+  - DOMAIN-SUFFIX,x.com
