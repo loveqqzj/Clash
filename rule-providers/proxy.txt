@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,driverpack.io
-  - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,giveawayoftheday.com
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,cloudflare.com
@@ -51,6 +50,10 @@ payload:
   # > Daum Potplayer
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,daumcdn.net
+
+  # > DeepL
+  - DOMAIN-SUFFIX,deepl.com
+  - DOMAIN-SUFFIX,linguee.com
 
   # > draw.io
   - DOMAIN-SUFFIX,draw.io
