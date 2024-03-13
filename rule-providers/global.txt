@@ -71,6 +71,18 @@ payload:
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubassets.com
 
+  # > Google
+  - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,gmodules.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,ampproject.org
+  - DOMAIN-SUFFIX,ggpht.com
+
   # > Imazing
   - DOMAIN-SUFFIX,imazing.com
   - DOMAIN-SUFFIX,devmate.com
