@@ -1,5 +1,5 @@
 payload:
-    # > 网盘
+  # > 网盘
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,mega
   - DOMAIN-SUFFIX,mypikpak.com
@@ -7,17 +7,37 @@ payload:
   - DOMAIN-KEYWORD,filen
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,pixeldrain.com
-    # > Pornhub
+
+  # > Pornhub
   - DOMAIN-SUFFIX,phprcdn.com
-  - DOMAIN-KEYWORD,pornhub
   - DOMAIN-SUFFIX,phncdn.com
-    # > YouTube
+  - DOMAIN-SUFFIX,gaytube.com
+  - DOMAIN-SUFFIX,porngub.com
+  - DOMAIN-SUFFIX,pornhub-deutsch.net
+  - DOMAIN-SUFFIX,pornhubapparel.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhub.org
+  - DOMAIN-SUFFIX,pornhubpremium.com
+
+  # > YouTube
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,googlevideo.com
-    # > Jav
+  - DOMAIN-SUFFIX,youtubeeducation.com
+  - DOMAIN-SUFFIX,youtubefanfest.com
+  - DOMAIN-SUFFIX,youtubegaming.com
+  - DOMAIN-SUFFIX,youtubego.co.id
+  - DOMAIN-SUFFIX,youtubego.co.in
+  - DOMAIN-SUFFIX,youtubego.com
+  - DOMAIN-SUFFIX,youtubego.com.br
+  - DOMAIN-SUFFIX,youtubego.id
+  - DOMAIN-SUFFIX,youtubego.in
+  - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIX,youtubemobilesupport.com
+
+  # > Jav
   - DOMAIN-SUFFIX,ohentai.org
   - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,xvideos-cdn.com
@@ -29,5 +49,6 @@ payload:
   - DOMAIN-SUFFIX,mycdn.me
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhcdn.com
-    # > iWara.TV
+
+  # > iWara.TV
   - DOMAIN-SUFFIX,iwara.tv
