@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,dama.lu
   - DOMAIN-SUFFIX,423down.com
 
+  # > DDNS
+  - DOMAIN-SUFFIX,asuscomm.com
+  - DOMAIN-SUFFIX,myqnapcloud.com
+
   # > 影视网站
   - DOMAIN-KEYWORD,bdys
   - DOMAIN-KEYWORD,btbtt
