@@ -6,6 +6,10 @@ payload:
   - DOMAIN-SUFFIX,netcdn.space
   - DOMAIN-SUFFIX,clcassd.com
 
+  # > BlogJAV
+  - DOMAIN-SUFFIX,blogjav.net
+  - DOMAIN-SUFFIX,pixhost.to
+
   # > iWara.TV
   - DOMAIN-SUFFIX,iwara.tv
 
@@ -30,6 +34,7 @@ payload:
 
   # > MissAV
   - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,eightcha.com
   - DOMAIN,client-rapi-missav.recombee.com
 
   # > 萌幻之乡
