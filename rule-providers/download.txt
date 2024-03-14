@@ -21,6 +21,22 @@ payload:
   - DOMAIN-SUFFIX,dropboxusercontent.com
   - DOMAIN-SUFFIX,getdropbox.com
 
+  # > iWara.TV
+  - DOMAIN-SUFFIX,iwara.tv
+
+  # > Jav
+  - DOMAIN-SUFFIX,ohentai.org
+  - DOMAIN-SUFFIX,b-cdn.net
+  - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,dood.video
+  - DOMAIN-SUFFIX,cdnrobot.xyz
+  - DOMAIN-SUFFIX,noodlemagazine.com
+  - DOMAIN-SUFFIX,pvvstream.pro
+  - DOMAIN-SUFFIX,mat6tube.com
+  - DOMAIN-SUFFIX,mycdn.me
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhcdn.com
+
   # > Mega
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.io
@@ -60,19 +76,3 @@ payload:
   - DOMAIN-SUFFIX,youtubego.in
   - DOMAIN-SUFFIX,youtubekids.com
   - DOMAIN-SUFFIX,youtubemobilesupport.com
-
-  # > Jav
-  - DOMAIN-SUFFIX,ohentai.org
-  - DOMAIN-SUFFIX,b-cdn.net
-  - DOMAIN-SUFFIX,xvideos-cdn.com
-  - DOMAIN-SUFFIX,dood.video
-  - DOMAIN-SUFFIX,cdnrobot.xyz
-  - DOMAIN-SUFFIX,noodlemagazine.com
-  - DOMAIN-SUFFIX,pvvstream.pro
-  - DOMAIN-SUFFIX,mat6tube.com
-  - DOMAIN-SUFFIX,mycdn.me
-  - DOMAIN-SUFFIX,xhamster.com
-  - DOMAIN-SUFFIX,xhcdn.com
-
-  # > iWara.TV
-  - DOMAIN-SUFFIX,iwara.tv
