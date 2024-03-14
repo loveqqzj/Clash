@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,adrules.top
+  - DOMAIN-SUFFIX,plex.tv
 
   # > Apple
   - DOMAIN-SUFFIX,aaplimg.com
