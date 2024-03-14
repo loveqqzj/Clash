@@ -44,3 +44,7 @@ payload:
   - DOMAIN-KEYWORD,btdig
   - DOMAIN-KEYWORD,torrentkitty
   - DOMAIN-SUFFIX,sukebei.nyaa.si
+
+  # > MissAV
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN,client-rapi-missav.recombee.com
