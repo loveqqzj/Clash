@@ -27,7 +27,7 @@ payload:
   # > Jav
   - DOMAIN-SUFFIX,ohentai.org
   - DOMAIN-SUFFIX,b-cdn.net
-  - DOMAIN-SUFFIX,xvideos-cdn.com
+
   - DOMAIN-SUFFIX,dood.video
   - DOMAIN-SUFFIX,cdnrobot.xyz
   - DOMAIN-SUFFIX,noodlemagazine.com
@@ -58,6 +58,10 @@ payload:
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhub.org
   - DOMAIN-SUFFIX,pornhubpremium.com
+
+  # > Xvideos
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
 
   # > YouTube
   - DOMAIN-SUFFIX,youtube.com
