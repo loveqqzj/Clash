@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,dama.lu
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,adrules.top
 
   # > Apple
   - DOMAIN-SUFFIX,aaplimg.com
