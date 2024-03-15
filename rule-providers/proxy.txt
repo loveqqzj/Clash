@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,driverpack.io
   - DOMAIN-SUFFIX,giveawayoftheday.com
   - DOMAIN-SUFFIX,duckduckgo.com
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,twdown.net
   - DOMAIN-SUFFIX,printfriendly.com
 
@@ -47,6 +46,10 @@ payload:
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,saasexch.io
   - DOMAIN-SUFFIX,appsflayer.com
+
+  # > Cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
 
   # > Daum Potplayer
   - DOMAIN-SUFFIX,daum.net
