@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,twdown.net
   - DOMAIN-SUFFIX,printfriendly.com
   - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,cdn.plyr.io
+  - DOMAIN-SUFFIX,plyr.io
 
   # > AdGuard
   - DOMAIN-SUFFIX,adguard.app
