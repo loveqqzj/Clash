@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,twdown.net
   - DOMAIN-SUFFIX,printfriendly.com
+  - DOMAIN-SUFFIX,digicert.com
 
   # > AdGuard
   - DOMAIN-SUFFIX,adguard.app
