@@ -36,7 +36,6 @@ payload:
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,nineyu.com
   - DOMAIN-SUFFIX,surrit.com
-  - DOMAIN,cdn.plyr.io
   - DOMAIN-SUFFIX,eightcha.com
   - DOMAIN,client-rapi-missav.recombee.com
 
