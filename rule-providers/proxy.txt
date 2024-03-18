@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,printfriendly.com
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,plyr.io
+  - DOMAIN-SUFFIX,polyfill.io
 
   # > AdGuard
   - DOMAIN-SUFFIX,adguard.app
