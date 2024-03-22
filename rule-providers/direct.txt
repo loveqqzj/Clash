@@ -46,6 +46,9 @@ payload:
   - DOMAIN-KEYWORD,bdys
   - DOMAIN-KEYWORD,btbtt
 
+  # > Firefox
+  - DOMAIN-SUFFIX,mozilla.org
+
   # > Forum & Blog
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,justmysocks.in
