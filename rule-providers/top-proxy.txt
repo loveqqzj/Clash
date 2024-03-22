@@ -2,3 +2,6 @@ payload:
   # > Microsoft
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,xboxlive.com
+
+  # > Firefox addons
+  - DOMAIN,addons.mozilla.org
