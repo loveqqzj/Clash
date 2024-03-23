@@ -36,3 +36,5 @@ payload:
   - '+.local'
   - 'clash.razord.top'
   - 'yacd.haishan.me'
+  - 'yacd.metacubex.one'
+  - 'd.metacubex.one'
