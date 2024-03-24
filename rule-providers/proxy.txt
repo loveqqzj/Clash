@@ -107,6 +107,10 @@ payload:
   - DOMAIN-SUFFIX,protonmail.com
   - DOMAIN-SUFFIX,protonstatus.com
 
+  # > DNS防泄漏
+  - DOMAIN,cdn.ss-cdn.com
+  - DOMAIN-SUFFIX,surfshark.com
+
   # > Tampermonkey
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,greasyfork.org
@@ -132,21 +136,6 @@ payload:
   - DOMAIN-SUFFIX,tg.dev
   - DOMAIN-SUFFIX,tx.me
   - DOMAIN-SUFFIX,usercontent.dev
-  - IP-CIDR,91.108.56.0/22
-  - IP-CIDR,91.108.4.0/22
-  - IP-CIDR,91.108.8.0/22
-  - IP-CIDR,91.108.16.0/22
-  - IP-CIDR,91.108.12.0/22
-  - IP-CIDR,91.105.192.0/23
-  - IP-CIDR,91.108.20.0/22
-  - IP-CIDR,95.161.64.0/20
-  - IP-CIDR,149.154.160.0/20
-  - IP-CIDR,185.76.151.0/24
-  - IP-CIDR6,2001:b28:f23d::/48
-  - IP-CIDR6,2001:b28:f23f::/48
-  - IP-CIDR6,2001:67c:4e8::/48
-  - IP-CIDR6,2001:b28:f23c::/48
-  - IP-CIDR6,2a0a:f280::/32
 
   # > Twitter
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
