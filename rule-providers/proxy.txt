@@ -107,11 +107,6 @@ payload:
   - DOMAIN-SUFFIX,protonmail.com
   - DOMAIN-SUFFIX,protonstatus.com
 
-  # > DNS防泄漏测试网址
-  - DOMAIN,cdn.ss-cdn.com
-  - DOMAIN-SUFFIX,surfshark.com
-  - DOMAIN-SUFFIX,surfsharkdns.com
-
   # > Tampermonkey
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,greasyfork.org
