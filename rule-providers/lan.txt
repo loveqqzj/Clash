@@ -1,40 +1,46 @@
 payload:
   # > 局域网 IP
-  - '0.0.0.0/8"
-  - '10.0.0.0/8"
-  - '100.64.0.0/10"
-  - '127.0.0.0/8"
-  - '169.254.0.0/16"
-  - '172.16.0.0/12"
-  - '192.0.0.0/24"
-  - '192.0.2.0/24"
-  - '192.88.99.0/24"
-  - '192.168.0.0/16"
-  - '198.18.0.0/15"
-  - '198.51.100.0/24"
-  - '203.0.113.0/24"
-  - '224.0.0.0/4"
-  - '240.0.0.0/4"
-  - '255.255.255.255/32"
-  - '::/128"
-  - '::1/128"
-  - 'fc00::/7"
-  - 'ff00::/8"
-  - 'fe80::/10
+  - IP-CIDR,0.0.0.0/8
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,100.64.0.0/10
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,169.254.0.0/16
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,192.0.0.0/24
+  - IP-CIDR,192.0.2.0/24
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,192.88.99.0/24
+  - IP-CIDR,198.18.0.0/15
+  - IP-CIDR,198.51.100.0/24
+  - IP-CIDR,203.0.113.0/24
+  - IP-CIDR,224.0.0.0/3
+  - IP-CIDR6,::/127
+  - IP-CIDR6,fc00::/7
+  - IP-CIDR6,fe80::/10
+  - IP-CIDR6,ff00::/8
 
-  # > 私有网络域名
-  - '+.plex.direct'
-  - 'asusrouter.com'
-  - 'router.asus.com'
-  - 'www.asusrouter.com'
-  - '+.lan'
-  - '+.localdomain'
-  - '+.example'
-  - '+.invalid'
-  - '+.localhost'
-  - '+.test'
-  - '+.local'
-  - 'clash.razord.top'
-  - 'yacd.haishan.me'
-  - 'yacd.metacubex.one'
-  - 'd.metacubex.one'
+  # Apple
+  - DOMAIN-SUFFIX,captive.apple.com
+
+  # ASUS router
+  - DOMAIN,asusrouter.com
+  - DOMAIN,router.asus.com
+  - DOMAIN,www.asusrouter.com
+
+  # Clash Meta Rev
+  - DOMAIN-SUFFIX,yacd.metacubex.one
+  - DOMAIN-SUFFIX,d.metacubex.one
+
+  # Firefox
+  - DOMAIN,detectportal.firefox.com
+
+  # Plex Media Server
+  - DOMAIN-SUFFIX,plex.direct
+
+  # QQ SSO for quick login
+  - DOMAIN-SUFFIX,localhost.sec.qq.com
+  - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+
+  # Windows
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
