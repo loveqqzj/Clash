@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,filen
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,pixeldrain.com
+  - DOMAIN-SUFFIX,katfile.com
 
   # > DropBox
   - DOMAIN-SUFFIX,db.tt
