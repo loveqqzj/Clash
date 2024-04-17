@@ -19,11 +19,6 @@ payload:
   # > Jav321
   - DOMAIN-SUFFIX,jav321.com
 
-  # > JavDB
-  - DOMAIN-SUFFIX,jdbimgs.com
-  - DOMAIN-KEYWORD,javdb
-  - DOMAIN-SUFFIX,jdbstatic.com
-
   # > Javbus
   - DOMAIN-KEYWORD,javbus
   - DOMAIN-SUFFIX,javcdn.pw
