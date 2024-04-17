@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,myqnapcloud.com
 
   # > 影视网站
+  - DOMAIN-SUFFIX,yjys.me
   - DOMAIN-KEYWORD,bdys
   - DOMAIN-KEYWORD,btbtt
 
