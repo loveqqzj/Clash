@@ -8,3 +8,5 @@ payload:
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,pingtest.net
   - DOMAIN-SUFFIX,webtest.net
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,ziffststic.com
