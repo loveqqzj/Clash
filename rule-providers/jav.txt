@@ -10,9 +10,6 @@ payload:
   - DOMAIN-SUFFIX,blogjav.net
   - DOMAIN-SUFFIX,pixhost.to
 
-  # > iWara.TV
-  - DOMAIN-SUFFIX,iwara.tv
-
   # > Javlibrary
   - DOMAIN-SUFFIX,javlibrary.com
 
