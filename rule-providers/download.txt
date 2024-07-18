@@ -22,9 +22,6 @@ payload:
   - DOMAIN-SUFFIX,dropboxusercontent.com
   - DOMAIN-SUFFIX,getdropbox.com
 
-  # > iWara.TV
-  - DOMAIN-SUFFIX,iwara.tv
-
   # > Linux
   - DOMAIN,laotzu.ftp.acc.umu.se
   - DOMAIN,releases.ubuntu.com
