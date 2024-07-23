@@ -2,32 +2,30 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "api-p.videomarket.jp"
-      ],
+      "domain": "api-p.videomarket.jp"
       "domain_suffix": [
-        "amazon.co.jp"
-        "binancecnt.com"
-        "binanceapi.com"
-        "bnbstatic.com"
-        "saasexch.com"
-        "saasexch.io"
-        "appsflayer.com"
-        "booth.pm"
-        "fanbox.cc"
-        "pixiv.net"
-        "pixiv.org"
-        "pixiv.co.jp"
-        "pixiv.me"
-        "pximg.net"
-        "dmm.co.jp"
-        "dmm.com"
-        "dmm-extension.com"
-        "dmmapis.com"
+        "amazon.co.jp",
+        "binancecnt.com",
+        "binanceapi.com",
+        "bnbstatic.com",
+        "saasexch.com",
+        "saasexch.io",
+        "appsflayer.com",
+        "booth.pm",
+        "fanbox.cc",
+        "pixiv.net",
+        "pixiv.org",
+        "pixiv.co.jp",
+        "pixiv.me",
+        "pximg.net",
+        "dmm.co.jp",
+        "dmm.com",
+        "dmm-extension.com",
+        "dmmapis.com",
         "dmmrex.com"
       ],
       "domain_keyword": [
-        "binance"
+        "binance",
         "binancezh"
       ]
     }
