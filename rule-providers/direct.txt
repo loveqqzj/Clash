@@ -45,7 +45,7 @@ payload:
 
   # > 影视网站
   - DOMAIN-SUFFIX,yjys.me
-  - DOMAIN-KEYWORD,bdys
+  - DOMAIN-KEYWORD,yjys
   - DOMAIN-KEYWORD,btbtt
 
   # > Firefox
