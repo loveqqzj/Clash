@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": "client-rapi-missav.recombee.com"
+      "domain": "client-rapi-missav.recombee.com",
       "domain_suffix": [
         "tellme.pw",
         "netcdn.space",
