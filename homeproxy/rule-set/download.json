@@ -3,55 +3,53 @@
   "rules": [
     {
       "domain": [
-        "laotzu.ftp.acc.umu.se"
+        "laotzu.ftp.acc.umu.se",
         "releases.ubuntu.com"
       ],
       "domain_suffix": [
-        "archive.org"
-        "pixeldrain.com"
-        "katfile.com"
-        "db.tt"
-        "dropbox-dns.com"
-        "dropbox.com"
-        "dropbox.tech"
-        "dropboxapi.com"
-        "dropboxbusiness.com"
-        "dropboxcaptcha.com"
-        "dropboxforum.com"
-        "dropboxforums.com"
-        "dropboxinsiders.com"
-        "dropboxmail.com"
-        "dropboxpartners.com"
-        "dropboxstatic.com"
-        "dropboxusercontent.com"
-        "getdropbox.com"
-        "mega.co.nz"
-        "mega.io"
-        "mega.nz"
-        "mypikpak.com"
-        "mypikpak.net"
-        "pikpak.me"
-        "pikpakdrive.com"
-        "youtube.com"
-        "ytimg.com"
-        "youtu.be"
-        "yt.be"
-        "googlevideo.com"
-        "youtubeeducation.com"
-        "youtubefanfest.com"
-        "youtubegaming.com"
-        "youtubego.co.id"
-        "youtubego.co.in"
-        "youtubego.com"
-        "youtubego.com.br"
-        "youtubego.id"
-        "youtubego.in"
-        "youtubekids.com"
+        "archive.org",
+        "pixeldrain.com",
+        "katfile.com",
+        "db.tt",
+        "dropbox-dns.com",
+        "dropbox.com",
+        "dropbox.tech",
+        "dropboxapi.com",
+        "dropboxbusiness.com",
+        "dropboxcaptcha.com",
+        "dropboxforum.com",
+        "dropboxforums.com",
+        "dropboxinsiders.com",
+        "dropboxmail.com",
+        "dropboxpartners.com",
+        "dropboxstatic.com",
+        "dropboxusercontent.com",
+        "getdropbox.com",
+        "mega.co.nz",
+        "mega.io",
+        "mega.nz",
+        "mypikpak.com",
+        "mypikpak.net",
+        "pikpak.me",
+        "pikpakdrive.com",
+        "youtube.com",
+        "ytimg.com",
+        "youtu.be",
+        "yt.be",
+        "googlevideo.com",
+        "youtubeeducation.com",
+        "youtubefanfest.com",
+        "youtubegaming.com",
+        "youtubego.co.id",
+        "youtubego.co.in",
+        "youtubego.com",
+        "youtubego.com.br",
+        "youtubego.id",
+        "youtubego.in",
+        "youtubekids.com",
         "youtubemobilesupport.com"
       ],
-      "domain_keyword": [
-        "filen"
-      ]
+      "domain_keyword": "filen"
     }
   ]
 }
