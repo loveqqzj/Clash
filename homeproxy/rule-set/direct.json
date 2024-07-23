@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mpyit.com"
+        "dama.lu"
+        "423down.com"
+        "mirror.ghproxy.com"
+        "adrules.top"
+        "plex.tv"
+        "123pan.com"
+        "aaplimg.com"
+        "apple.co"
+        "apple.com"
+        "apple.news"
+        "apple-cloudkit.com"
+        "apple-mapkit.com"
+        "appstore.com"
+        "cdn-apple.com"
+        "crashlytics.com"
+        "icloud.com"
+        "icloud-content.com"
+        "me.com"
+        "mzstatic.com"
+        "akadns.net"
+        "weather.com"
+        "apple.com.edgekey.net"
+        "ccgslb.com"
+        "ccgslb.net"
+        "chinanetcenter.com"
+        "meixincdn.com"
+        "ourdvs.com"
+        "staticdn.net"
+        "wangsu.com"
+        "bootstrapcdn.com"
+        "loli.net"
+        "bootcss.com"
+        "asuscomm.com"
+        "myqnapcloud.com"
+        "yjys.me"
+        "mozilla.org"
+        "hostloc.com"
+        "justmysocks.in"
+        "appinn.com"
+        "ipip.net"
+        "ip.la"
+        "ip-cdn.com"
+        "ipv6-test.com"
+        "test-ipv6.com"
+        "whatismyip.com"
+        "ip.plus"
+      ],
+      "domain_keyword": [
+        "fuliba"
+        "yjys"
+        "btbtt"
+      ]
+    }
+  ]
+}
+
+
+
+
+
+  # > Oyunfor
+  - DOMAIN-SUFFIX,oyunfor.com
