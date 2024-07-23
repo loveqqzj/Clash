@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": "api-p.videomarket.jp"
+      "domain": "api-p.videomarket.jp",
       "domain_suffix": [
         "amazon.co.jp",
         "binancecnt.com",
