@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "test.com"
+
+      ],
+      "domain_suffix": [
+        "test.com"
+
+      ],
+      "domain_keyword": [
+        "test"
+
+      ]
+    }
+  ]
+}
