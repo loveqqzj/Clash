@@ -64,7 +64,3 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,ip.plus
-
-  # > Oyunfor & Turgame
-  - DOMAIN-SUFFIX,oyunfor.com
-  - DOMAIN-SUFFIX,turgame.com
