@@ -5,6 +5,3 @@ payload:
   # > Microsoft
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,xboxlive.com
-
-  # > Oyunfor
-  - DOMAIN-SUFFIX,oyunfor.com
