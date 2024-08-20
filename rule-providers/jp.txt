@@ -9,7 +9,7 @@ payload:
   # API
   - DOMAIN-SUFFIX,binanceapi.com
   - DOMAIN-SUFFIX,bnbstatic.com
-  # saas 
+  # saas
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,saasexch.io
   - DOMAIN-SUFFIX,appsflayer.com
