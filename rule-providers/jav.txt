@@ -10,9 +10,6 @@ payload:
   - DOMAIN-SUFFIX,blogjav.net
   - DOMAIN-SUFFIX,pixhost.to
 
-  # > iWara.TV
-  - DOMAIN-SUFFIX,iwara.tv
-
   # > Javlibrary
   - DOMAIN-SUFFIX,javlibrary.com
 
@@ -27,13 +24,6 @@ payload:
   - DOMAIN-SUFFIX,javstore.net
   - DOMAIN-SUFFIX,javcdn.cc
 
-  # > MissAV
-  - DOMAIN-SUFFIX,missav.com
-  - DOMAIN-SUFFIX,nineyu.com
-  - DOMAIN-SUFFIX,surrit.com
-  - DOMAIN-SUFFIX,eightcha.com
-  - DOMAIN,client-rapi-missav.recombee.com
-
   # > 萌幻之乡
   - DOMAIN-SUFFIX,hmoeh.com
   - DOMAIN-SUFFIX,hmoe.link
@@ -41,17 +31,6 @@ payload:
   - DOMAIN-SUFFIX,imgcap.xyz
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,chkaja.com
-
-  # > Pornhub
-  - DOMAIN-SUFFIX,phprcdn.com
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,gaytube.com
-  - DOMAIN-SUFFIX,porngub.com
-  - DOMAIN-SUFFIX,pornhub-deutsch.net
-  - DOMAIN-SUFFIX,pornhubapparel.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhub.org
-  - DOMAIN-SUFFIX,pornhubpremium.com
 
   # > SiS001
   - DOMAIN-SUFFIX,sis001.com
@@ -64,7 +43,3 @@ payload:
   - DOMAIN-KEYWORD,btdig
   - DOMAIN-KEYWORD,torrentkitty
   - DOMAIN-SUFFIX,sukebei.nyaa.si
-
-  # > Xvideos
-  - DOMAIN-SUFFIX,xvideos.com
-  - DOMAIN-SUFFIX,xvideos-cdn.com
