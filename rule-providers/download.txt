@@ -54,3 +54,25 @@ payload:
   - DOMAIN-SUFFIX,youtubego.in
   - DOMAIN-SUFFIX,youtubekids.com
   - DOMAIN-SUFFIX,youtubemobilesupport.com
+
+  # > iWara.TV
+  - DOMAIN-SUFFIX,iwara.tv
+  # > MissAV
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,nineyu.com
+  - DOMAIN-SUFFIX,surrit.com
+  - DOMAIN-SUFFIX,eightcha.com
+  - DOMAIN,client-rapi-missav.recombee.com
+  # > Pornhub
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,gaytube.com
+  - DOMAIN-SUFFIX,porngub.com
+  - DOMAIN-SUFFIX,pornhub-deutsch.net
+  - DOMAIN-SUFFIX,pornhubapparel.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhub.org
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  # > Xvideos
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
