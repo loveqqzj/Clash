@@ -43,6 +43,10 @@ payload:
   - DOMAIN-SUFFIX,asuscomm.com
   - DOMAIN-SUFFIX,myqnapcloud.com
 
+# > Debian
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN,chuangtzu.ftp.acc.umu.se
+
   # > 影视网站
   - DOMAIN-SUFFIX,yjys.me
   - DOMAIN-KEYWORD,yjys
@@ -64,3 +68,5 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,ip.plus
+  # > Ubuntu
+  - DOMAIN-SUFFIX,ubuntu.com
