@@ -68,5 +68,6 @@ payload:
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,ip.plus
+
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
