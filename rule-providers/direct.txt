@@ -48,7 +48,6 @@ payload:
   - DOMAIN,chuangtzu.ftp.acc.umu.se
 
   # > 影视网站
-  - DOMAIN-SUFFIX,yjys.me
   - DOMAIN-KEYWORD,yjys
   - DOMAIN-KEYWORD,btbtt
 
