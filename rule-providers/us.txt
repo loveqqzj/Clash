@@ -1,2 +1,3 @@
-  # > H動漫
+payload:
+# > H動漫
   - DOMAIN-SUFFIX,hanime1.me
