@@ -1,11 +1,2 @@
-payload:
-  # > PayPal
-  - DOMAIN-SUFFIX,paypal.com
-  - DOMAIN-SUFFIX,paypalobjects.com
-
-  # > JavDB
-  - DOMAIN-SUFFIX,jdbimgs.com
-  - DOMAIN-KEYWORD,javdb
-  - DOMAIN-SUFFIX,jdbstatic.com
   # > H動漫
   - DOMAIN-SUFFIX,hanime1.me
