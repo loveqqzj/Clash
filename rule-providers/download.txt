@@ -1,59 +1,12 @@
 payload:
   # > 网盘
   - DOMAIN-KEYWORD,filen
-  - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,katfile.com
-
-  # > DropBox
-  - DOMAIN-SUFFIX,db.tt
-  - DOMAIN-SUFFIX,dropbox-dns.com
-  - DOMAIN-SUFFIX,dropbox.com
-  - DOMAIN-SUFFIX,dropbox.tech
-  - DOMAIN-SUFFIX,dropboxapi.com
-  - DOMAIN-SUFFIX,dropboxbusiness.com
-  - DOMAIN-SUFFIX,dropboxcaptcha.com
-  - DOMAIN-SUFFIX,dropboxforum.com
-  - DOMAIN-SUFFIX,dropboxforums.com
-  - DOMAIN-SUFFIX,dropboxinsiders.com
-  - DOMAIN-SUFFIX,dropboxmail.com
-  - DOMAIN-SUFFIX,dropboxpartners.com
-  - DOMAIN-SUFFIX,dropboxstatic.com
-  - DOMAIN-SUFFIX,dropboxusercontent.com
-  - DOMAIN-SUFFIX,getdropbox.com
 
   # > Linux
   - DOMAIN,laotzu.ftp.acc.umu.se
   - DOMAIN,releases.ubuntu.com
-
-  # > Mega
-  - DOMAIN-SUFFIX,mega.co.nz
-  - DOMAIN-SUFFIX,mega.io
-  - DOMAIN-SUFFIX,mega.nz
-
-  # > PikPak
-  - DOMAIN-SUFFIX,mypikpak.com
-  - DOMAIN-SUFFIX,mypikpak.net
-  - DOMAIN-SUFFIX,pikpak.me
-  - DOMAIN-SUFFIX,pikpakdrive.com
-
-  # > YouTube
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,yt.be
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,youtubeeducation.com
-  - DOMAIN-SUFFIX,youtubefanfest.com
-  - DOMAIN-SUFFIX,youtubegaming.com
-  - DOMAIN-SUFFIX,youtubego.co.id
-  - DOMAIN-SUFFIX,youtubego.co.in
-  - DOMAIN-SUFFIX,youtubego.com
-  - DOMAIN-SUFFIX,youtubego.com.br
-  - DOMAIN-SUFFIX,youtubego.id
-  - DOMAIN-SUFFIX,youtubego.in
-  - DOMAIN-SUFFIX,youtubekids.com
-  - DOMAIN-SUFFIX,youtubemobilesupport.com
 
   # > iWara.TV
   - DOMAIN-SUFFIX,iwara.tv
@@ -63,16 +16,3 @@ payload:
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,eightcha.com
   - DOMAIN,client-rapi-missav.recombee.com
-  # > Pornhub
-  - DOMAIN-SUFFIX,phprcdn.com
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,gaytube.com
-  - DOMAIN-SUFFIX,porngub.com
-  - DOMAIN-SUFFIX,pornhub-deutsch.net
-  - DOMAIN-SUFFIX,pornhubapparel.com
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornhub.org
-  - DOMAIN-SUFFIX,pornhubpremium.com
-  # > Xvideos
-  - DOMAIN-SUFFIX,xvideos.com
-  - DOMAIN-SUFFIX,xvideos-cdn.com
