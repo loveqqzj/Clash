@@ -9,24 +9,6 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,123pan.com
 
-  # > Apple
-  - DOMAIN-SUFFIX,aaplimg.com
-  - DOMAIN-SUFFIX,apple.co
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,apple.news
-  - DOMAIN-SUFFIX,apple-cloudkit.com
-  - DOMAIN-SUFFIX,apple-mapkit.com
-  - DOMAIN-SUFFIX,appstore.com
-  - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN-SUFFIX,crashlytics.com
-  - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,me.com
-  - DOMAIN-SUFFIX,mzstatic.com
-  - DOMAIN-SUFFIX,akadns.net
-  - DOMAIN-SUFFIX,weather.com
-  - DOMAIN-SUFFIX,apple.com.edgekey.net
-
   # > CDN
   - DOMAIN-SUFFIX,ccgslb.com
   - DOMAIN-SUFFIX,ccgslb.net
@@ -50,9 +32,6 @@ payload:
   # > 影视网站
   - DOMAIN-KEYWORD,yjys
   - DOMAIN-KEYWORD,btbtt
-
-  # > Firefox
-  - DOMAIN-SUFFIX,mozilla.org
 
   # > Forum & Blog
   - DOMAIN-SUFFIX,hostloc.com
