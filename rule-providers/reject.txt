@@ -1,2 +1,0 @@
-payload:
-  - DOMAIN,ad.886112.xyz
