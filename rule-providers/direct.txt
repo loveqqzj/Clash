@@ -30,6 +30,7 @@ payload:
   - DOMAIN,chuangtzu.ftp.acc.umu.se
 
 # > Speedtest
+  - DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,hinet.net
 
   # > 影视网站
