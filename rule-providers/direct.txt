@@ -29,6 +29,9 @@ payload:
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN,chuangtzu.ftp.acc.umu.se
 
+# > Speedtest
+  - DOMAIN-SUFFIX,hinet.net
+
   # > 影视网站
   - DOMAIN-KEYWORD,yjys
   - DOMAIN-KEYWORD,btbtt
