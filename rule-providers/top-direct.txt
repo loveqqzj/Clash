@@ -6,6 +6,10 @@ payload:
   # > Turgame
   - DOMAIN-SUFFIX,turgame.com
 
+# > Windows本地连接检测
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+
 # > Windows Update
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-KEYWORD,update.microsoft.com
