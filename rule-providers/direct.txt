@@ -50,5 +50,10 @@ payload:
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,ip.plus
 
+  # > 默沙东
+  - DOMAIN-SUFFIX,merck.com
+  - DOMAIN-SUFFIX,ghh.digital
+  - DOMAIN-SUFFIX,msdprivacy.com
+
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
