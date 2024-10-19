@@ -10,6 +10,10 @@ payload:
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,polyfill.io
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,sitecorecloud.io
+  - DOMAIN-SUFFIX,brightcove.net
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,onetrust.com
 
   # > Clash
   - DOMAIN-SUFFIX,clashverge.dev
