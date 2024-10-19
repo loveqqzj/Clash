@@ -1,12 +1,2 @@
 payload:
-  - DOMAIN-KEYWORD,speedtest
-  - DOMAIN-SUFFIX,cdnst.net
-  - DOMAIN-SUFFIX,cellmaps.com
-  - DOMAIN-SUFFIX,ekahau.cloud
-  - DOMAIN-SUFFIX,ekahau.com
-  - DOMAIN-SUFFIX,ookla.com
-  - DOMAIN-SUFFIX,ooklaserver.net
-  - DOMAIN-SUFFIX,pingtest.net
-  - DOMAIN-SUFFIX,webtest.net
-  - DOMAIN-SUFFIX,fdcservers.net
-  - DOMAIN-SUFFIX,ziffstatic.com
+  - DOMAIN-SUFFIX,hinet.net
