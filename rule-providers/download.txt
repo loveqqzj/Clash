@@ -16,3 +16,7 @@ payload:
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,eightcha.com
   - DOMAIN,client-rapi-missav.recombee.com
+
+  # > OpenWrt
+  - DOMAIN-SUFFIX,immortalwrt.org
+  - DOMAIN-SUFFIX,openwrt.org
