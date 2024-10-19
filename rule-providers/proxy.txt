@@ -9,6 +9,11 @@ payload:
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,polyfill.io
+  - DOMAIN-SUFFIX,linux.do
+
+  # > Clash
+  - DOMAIN-SUFFIX,clashverge.dev
+  - DOMAIN-SUFFIX,metacubex.one
 
   # > Daum Potplayer
   - DOMAIN-SUFFIX,daum.net
@@ -31,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,limbopro.xyz
+  - DOMAIN-SUFFIX,qichiyu.com
 
   # > Imazing
   - DOMAIN-SUFFIX,imazing.com
