@@ -1,5 +1,12 @@
 payload:
-  # > Windows Update
+# > AdGuard
+  - DOMAIN,local.adguard.org
+  - DOMAIN,injections.adguard.org
+
+  # > Turgame
+  - DOMAIN-SUFFIX,turgame.com
+
+# > Windows Update
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-KEYWORD,update.microsoft.com
   - DOMAIN-SUFFIX,windowsupdate.microsoft.com
@@ -11,6 +18,3 @@ payload:
   - DOMAIN-KEYWORD,prod.do.dsp.mp.microsoft.com
   - DOMAIN-KEYWORD,windows.com.akadns.net
   - DOMAIN-SUFFIX,officecdn.microsoft.com
-
-  # > Turgame
-  - DOMAIN-SUFFIX,turgame.com
