@@ -21,6 +21,9 @@ payload:
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,bootcss.com
 
+  # > Currency Converter Plus
+  - DOMAIN-SUFFIX,oeo.li
+
   # > DDNS
   - DOMAIN-SUFFIX,asuscomm.com
   - DOMAIN-SUFFIX,myqnapcloud.com
