@@ -3,8 +3,12 @@ payload:
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
 
+#Apple Software Update Service
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.com.cn
+
 # > 谷歌应用商店
-  - DOMAIN,services.googleapis.cn
+  - DOMAIN,googleapis.cn
   - DOMAIN,xn--ngstr-lra8j.com
 
 # > Windows本地连接检测
