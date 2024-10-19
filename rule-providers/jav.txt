@@ -24,6 +24,13 @@ payload:
   - DOMAIN-SUFFIX,javstore.net
   - DOMAIN-SUFFIX,javcdn.cc
 
+# > JavGo
+  - DOMAIN-SUFFIX,njav.tv
+  - DOMAIN-SUFFIX,skyearth.xyz
+  - DOMAIN-SUFFIX,avfever.net
+  - DOMAIN-SUFFIX,javplayer.me
+  - DOMAIN,client-rapi-us-west.recombee.com
+
   # > 萌幻之乡
   - DOMAIN-SUFFIX,hmoeh.com
   - DOMAIN-SUFFIX,hmoe.link
