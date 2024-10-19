@@ -37,6 +37,8 @@ payload:
   - DOMAIN-SUFFIX,duyaoss.com
   - DOMAIN-SUFFIX,limbopro.xyz
   - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-SUFFIX,skk.moe
+  - DOMAIN-SUFFIX,iyyh.net
 
   # > Imazing
   - DOMAIN-SUFFIX,imazing.com
