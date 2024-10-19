@@ -1,3 +1,4 @@
+payload:
 # > AdGuard
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
@@ -5,9 +6,6 @@
 # > 谷歌应用商店
   - DOMAIN,services.googleapis.cn
   - DOMAIN,xn--ngstr-lra8j.com
-
-  # > Turgame
-  - DOMAIN-SUFFIX,turgame.com
 
 # > Windows本地连接检测
   - DOMAIN-SUFFIX,msftconnecttest.com
