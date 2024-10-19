@@ -10,10 +10,6 @@ payload:
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,polyfill.io
 
-  # > Cloudflare
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-
   # > Daum Potplayer
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,daumcdn.net
