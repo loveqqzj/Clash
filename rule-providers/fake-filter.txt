@@ -3,14 +3,29 @@ payload:
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
 
-#Apple Software Update Service
+# > Apple App Store
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.cn
 
 # > 谷歌应用商店
   - DOMAIN,googleapis.cn
   - DOMAIN,xn--ngstr-lra8j.com
+  - DOMAIN,lens.l.google.com
+  - DOMAIN,stun.l.google.com
+  - DOMAIN,na.b.g-tun.com
+
+# > QQ登录
+  - DOMAIN,localhost.ptlogin2.qq.com
+  - DOMAIN,localhost.sec.qq.com
 
 # > Windows本地连接检测
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
+
+# > 迅雷
+  - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,n0808.com
+
+# > 招商银行
+  - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-SUFFIX,cmbimg.com
