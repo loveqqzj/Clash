@@ -3,6 +3,18 @@ payload:
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
 
+  # > Currency Converter Plus
+  - DOMAIN-SUFFIX,oeo.li
+
+  # > DDNS
+  - DOMAIN-SUFFIX,asuscomm.com
+  - DOMAIN-SUFFIX,myqnapcloud.com
+
+  # > 默沙东
+  - DOMAIN-SUFFIX,merck.com
+  - DOMAIN-SUFFIX,ghh.digital
+  - DOMAIN-SUFFIX,msdprivacy.com
+
   # > Turgame
   - DOMAIN-SUFFIX,turgame.com
 
