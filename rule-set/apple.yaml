@@ -1,0 +1,104 @@
+payload:
+  # > Apple
+  - DOMAIN-SUFFIX,apple.cn
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-SUFFIX,apple.xyz
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,apple.com.edgekey.net
+  - DOMAIN-KEYWORD,apple-support.akadns.net
+  - DOMAIN-KEYWORD,cdn-apple.com
+  - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  - DOMAIN-SUFFIX,mzstatic.com
+
+  # > Apple ID
+  - DOMAIN-SUFFIX,appleaccount.net
+  - DOMAIN-SUFFIX,appleid-applemx.com
+  - DOMAIN-SUFFIX,appleid-iclou.com
+  - DOMAIN-SUFFIX,appleid.com
+  - DOMAIN-SUFFIX,ids-apple.com
+  - DOMAIN-SUFFIX,myappleid.com
+
+  # > Apple Pay
+  - DOMAIN-SUFFIX,# Apple Pay
+  - DOMAIN-SUFFIX,apple-pay.com
+  - DOMAIN-SUFFIX,applepaycash.cn
+  - DOMAIN-SUFFIX,applepaycash.com.cn
+  - DOMAIN-SUFFIX,applepaycash.net
+  - DOMAIN-SUFFIX,applepaycash.tv
+  - DOMAIN-SUFFIX,applepaymerchantsupplies.info
+  - DOMAIN-SUFFIX,applepaysupplies.cn
+  - DOMAIN-SUFFIX,applepaysupplies.com
+  - DOMAIN-SUFFIX,applepaysupplies.com.cn
+  - DOMAIN-SUFFIX,applepaysupplies.info
+  - DOMAIN-SUFFIX,applepaysupplies.net
+  - DOMAIN-SUFFIX,applepaysupplies.tv
+  - DOMAIN-SUFFIX,applewallet.com
+  - DOMAIN-SUFFIX,applewallet.tv
+
+  # > Apple Music
+  - DOMAIN-SUFFIX,applemusic.co
+  - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,applemusicconnect.com
+  - DOMAIN-SUFFIX,applemusicfestival.com
+  - DOMAIN-SUFFIX,musickit.net
+  - DOMAIN-SUFFIX,wwwapplemusic.com
+
+  # > App Store
+  - DOMAIN-SUFFIX,app-store.wang
+  - DOMAIN-SUFFIX,appe-store.com
+  - DOMAIN-SUFFIX,apple-appstore.cn
+  - DOMAIN-SUFFIX,appleappstore.cn
+  - DOMAIN-SUFFIX,appleappstore.net
+  - DOMAIN-SUFFIX,appstoreapple.cn
+  - DOMAIN-SUFFIX,tvappstore.net
+
+  # > Apple Store
+  - DOMAIN-SUFFIX,aplestore.com
+  - DOMAIN-SUFFIX,apple-store.cn
+  - DOMAIN-SUFFIX,apple-store.net
+  - DOMAIN-SUFFIX,apple-store.wang
+  - DOMAIN-SUFFIX,applestor.com
+  - DOMAIN-SUFFIX,applestore.cn
+  - DOMAIN-SUFFIX,applestore.com
+  - DOMAIN-SUFFIX,applestore.com.cn
+  - DOMAIN-SUFFIX,applestore.net
+  - DOMAIN-SUFFIX,applestoreonline.com
+  - DOMAIN-SUFFIX,onlineapplestore.com
+
+  # > iCloud
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
+  - DOMAIN-SUFFIX,apple-icloud.cn
+  - DOMAIN-SUFFIX,appleicloud.cn
+  - DOMAIN-SUFFIX,applemx-icloud.com
+  - DOMAIN-SUFFIX,icloud-apple.cn
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-isupport.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,icloud.net.cn
+  - DOMAIN-SUFFIX,icloud.org
+  - DOMAIN-SUFFIX,icloudads.net
+  - DOMAIN-SUFFIX,icloudapple.cn
+  - DOMAIN-SUFFIX,icloudbox.net
+  - DOMAIN-SUFFIX,icloudbrowser.net
+  - DOMAIN-SUFFIX,icloude.com
+  - DOMAIN-SUFFIX,icloudhome.com
+  - DOMAIN-SUFFIX,icloudmail.net
+  - DOMAIN-SUFFIX,icloudmusic.net
+  - DOMAIN-SUFFIX,icloudnet.net
+  - DOMAIN-SUFFIX,icloudpay.net
+  - DOMAIN-SUFFIX,icloudo.com
+  - DOMAIN-SUFFIX,icloudo.net
+  - DOMAIN-SUFFIX,icloudos.net
+  - DOMAIN-SUFFIX,icloudsecure.net
+  - DOMAIN-SUFFIX,icloudsetup.com
+  - DOMAIN-SUFFIX,ios-icloud.com
+  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,myicloud.net
+  - DOMAIN-SUFFIX,mylcloud.net
+  - DOMAIN-SUFFIX,wwwicloud.com
+
+  # > Shazam
+  - DOMAIN-SUFFIX,shazam.com
