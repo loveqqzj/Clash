@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,nbpicture.xyz
   - DOMAIN,sf16-sg-default.akamaized.net
+  - DOMAIN,p16-tiktokcdn-com.toutiao50.com
+  - DOMAIN,p16-tm-sg.tiktokmusic.me
 
   # > BT之家
   - DOMAIN-KEYWORD,btbtt
