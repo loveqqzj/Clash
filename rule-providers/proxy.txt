@@ -50,13 +50,13 @@ payload:
   - DOMAIN-SUFFIX,devmate.io
 
   # > SMS-Activate
-  - DOMAIN, cvobcl-launches.appsflyersdk.com
-  - DOMAIN, cvobcl-skadsdk.appsflyersdk.com
-  - DOMAIN, cvobcl-cdn-settings.appsflyersdk.com
+  - DOMAIN,cvobcl-launches.appsflyersdk.com
+  - DOMAIN,cvobcl-skadsdk.appsflyersdk.com
+  - DOMAIN,cvobcl-cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,pngall.com
-  - DOMAIN, cvobcl-gcdsdk.appsflyersdk.com
-  - DOMAIN, smsactivate.s3.eu-central-1.amazonaws.com
+  - DOMAIN,cvobcl-gcdsdk.appsflyersdk.com
+  - DOMAIN,smsactivate.s3.eu-central-1.amazonaws.com
   - DOMAIN-SUFFIX,sms-activate.org
 
   # > Tampermonkey
