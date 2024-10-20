@@ -1,0 +1,10 @@
+payload:
+  # > Firefox addons
+  - DOMAIN,addons.mozilla.org
+
+  # > 谷歌应用商店
+  - DOMAIN-SUFFIX,googleapis.cn
+
+  # > Microsoft
+  - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,xboxlive.com
