@@ -1,0 +1,24 @@
+payload:
+# > AdGuard
+  - DOMAIN,local.adguard.org
+  - DOMAIN,injections.adguard.org
+
+  # > Turgame
+  - DOMAIN-SUFFIX,turgame.com
+
+# > Windows本地连接检测
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+
+# > Windows Update
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-KEYWORD,update.microsoft.com
+  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
+  - DOMAIN-SUFFIX,download.microsoft.com
+  - DOMAIN-SUFFIX,wustat.windows.com
+  - DOMAIN-SUFFIX,ntservicepack.microsoft.com
+  - DOMAIN-SUFFIX,forefrontdl.microsoft.com
+  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+  - DOMAIN-KEYWORD,prod.do.dsp.mp.microsoft.com
+  - DOMAIN-KEYWORD,windows.com.akadns.net
+  - DOMAIN-SUFFIX,officecdn.microsoft.com
