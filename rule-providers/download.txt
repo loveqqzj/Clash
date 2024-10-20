@@ -16,6 +16,8 @@ payload:
   # > Plex TV
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,plex.wurl.tv
+  - DOMAIN-SUFFIX,amagi.tv
+  - DOMAIN-SUFFIX,frequency.stream
 
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
