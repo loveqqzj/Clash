@@ -1,0 +1,66 @@
+payload:
+  # > Amazon
+  - DOMAIN-SUFFIX,amazon.co.jp
+
+  # > Binance
+  - DOMAIN-SUFFIX,binance.cc
+  - DOMAIN-SUFFIX,binance.charity
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,binance.co
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.info
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.net
+  - DOMAIN-SUFFIX,binance.org
+  - DOMAIN-SUFFIX,binance.us
+  - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN-SUFFIX,binancecnt.com
+  - DOMAIN-SUFFIX,binancezh.be
+  - DOMAIN-SUFFIX,binancezh.biz
+  - DOMAIN-SUFFIX,binancezh.cc
+  - DOMAIN-SUFFIX,binancezh.co
+  - DOMAIN-SUFFIX,binancezh.com
+  - DOMAIN-SUFFIX,binancezh.info
+  - DOMAIN-SUFFIX,binancezh.ink
+  - DOMAIN-SUFFIX,binancezh.kim
+  - DOMAIN-SUFFIX,binancezh.link
+  - DOMAIN-SUFFIX,binancezh.live
+  - DOMAIN-SUFFIX,binancezh.mobi
+  - DOMAIN-SUFFIX,binancezh.net
+  - DOMAIN-SUFFIX,binancezh.pro
+  - DOMAIN-SUFFIX,binancezh.sh
+  - DOMAIN-SUFFIX,binancezh.top
+  # > API
+  - DOMAIN-SUFFIX,binanceapi.com
+  - DOMAIN-SUFFIX,bnbstatic.com
+
+  # > DLSite
+  - DOMAIN-SUFFIX,chobit.cc
+  - DOMAIN-SUFFIX,ci-en.jp
+  - DOMAIN-SUFFIX,ci-en.net
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN-SUFFIX,dlsite.com.tw
+  - DOMAIN-SUFFIX,dlsite.jp
+  - DOMAIN-SUFFIX,dlsitestudio.com
+  - DOMAIN-SUFFIX,nijiyome.jp
+  - DOMAIN-SUFFIX,triokini.com
+
+  # > DMM
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm-extension.com
+  - DOMAIN-SUFFIX,dmmapis.com
+  - DOMAIN,api-p.videomarket.jp
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dmmrex.com
+
+  # > Pixiv
+  - DOMAIN-SUFFIX,booth.pm
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pixiv.org
+  - DOMAIN-SUFFIX,pixiv.co.jp
+  - DOMAIN-SUFFIX,pixiv.me
+  - DOMAIN-SUFFIX,pximg.net
+
+  # > RAKKOTOOLS
+  - DOMAIN-SUFFIX,rakko.tools
