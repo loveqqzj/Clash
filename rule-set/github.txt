@@ -1,11 +1,5 @@
  payload:
-  - DOMAIN-SUFFIX,git.io
-  - DOMAIN-SUFFIX,github.io
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubassets.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-
-
+  # > GitHub
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,ghcr.io
@@ -29,10 +23,10 @@
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
 
-# GitHub Actions Artifacts
+  # > GitHub Actions Artifacts
   - DOMAIN,blob.core.windows.net
 
-
+  # > NPMjs
   - DOMAIN-SUFFIX,npm.community
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmjs.org
