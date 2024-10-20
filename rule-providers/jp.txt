@@ -1,3 +1,6 @@
 payload:
   # > Amazon
   - DOMAIN-SUFFIX,amazon.co.jp
+
+  # > RAKKOTOOLS
+  - DOMAIN-SUFFIX,rakko.tools
