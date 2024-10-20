@@ -1,4 +1,5 @@
-  # > IP查询网站
+payload:
+# > IP查询网站
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,ip.la
   - DOMAIN-SUFFIX,ip-cdn.com
