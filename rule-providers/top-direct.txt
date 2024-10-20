@@ -3,6 +3,10 @@ payload:
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
 
+  # > IP Address Tools
+  - DOMAIN-SUFFIX,ipaddressguide.com
+  - DOMAIN-SUFFIX,hexasoft.com.my
+
   # > Turgame
   - DOMAIN-SUFFIX,turgame.com
 
