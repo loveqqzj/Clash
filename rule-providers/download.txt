@@ -15,6 +15,9 @@ payload:
 
   # > Plex TV
   - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN,cdn.transifex.com
+  - DOMAIN,telemetry.svc.transifex.net
+  - DOMAIN,live-detector.svc.transifex.net
 
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
