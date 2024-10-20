@@ -11,6 +11,7 @@ payload:
   # > OpenWrt
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,lede-project.org
 
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
