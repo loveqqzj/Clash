@@ -3,10 +3,6 @@ payload:
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
 
-# > Apple App Store
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,apple.com.cn
-
 # > 谷歌应用商店
   - DOMAIN,googleapis.cn
   - DOMAIN,xn--ngstr-lra8j.com
