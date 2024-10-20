@@ -1,0 +1,11 @@
+payload:
+  # > Debian
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN,chuangtzu.ftp.acc.umu.se
+
+  # > OpenWrt
+  - DOMAIN-SUFFIX,immortalwrt.org
+  - DOMAIN-SUFFIX,openwrt.org
+
+  # > Ubuntu
+  - DOMAIN-SUFFIX,ubuntu.com
