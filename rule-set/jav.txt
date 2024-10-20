@@ -20,6 +20,9 @@ payload:
   # > H動漫
   - DOMAIN-SUFFIX,hanime1.me
 
+  # > iWara.TV
+  - DOMAIN-SUFFIX,iwara.tv
+
   # > Javlibrary
   - DOMAIN-SUFFIX,javlibrary.com
 
@@ -60,10 +63,20 @@ payload:
   - DOMAIN-SUFFIX,twporn.net
 
   # > 萌幻之乡
-  - DOMAIN-SUFFIX,hmoeh.com
+  - DOMAIN-SUFFIX,moe-acg.com
+  - DOMAIN-SUFFIX,image.acg.lol
   - DOMAIN-SUFFIX,hmoe.link
   - DOMAIN-SUFFIX,xhacgn.com
   - DOMAIN-SUFFIX,imgcap.xyz
+  # > 运行状态
+  - DOMAIN-SUFFIX,status.hmoe.top
+
+  # > MissAV
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,nineyu.com
+  - DOMAIN-SUFFIX,surrit.com
+  - DOMAIN-SUFFIX,eightcha.com
+  - DOMAIN,client-rapi-missav.recombee.com
 
 # > Netflav
   - DOMAIN-SUFFIX,netflav.com
