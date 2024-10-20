@@ -4,19 +4,14 @@ payload:
   - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,katfile.com
 
-  # > Linux
-  - DOMAIN,laotzu.ftp.acc.umu.se
-  - DOMAIN,releases.ubuntu.com
-
-  # > iWara.TV
-  - DOMAIN-SUFFIX,iwara.tv
-  # > MissAV
-  - DOMAIN-SUFFIX,missav.com
-  - DOMAIN-SUFFIX,nineyu.com
-  - DOMAIN-SUFFIX,surrit.com
-  - DOMAIN-SUFFIX,eightcha.com
-  - DOMAIN,client-rapi-missav.recombee.com
+# > Debian
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN,chuangtzu.ftp.acc.umu.se
 
   # > OpenWrt
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,lede-project.org
+
+  # > Ubuntu
+  - DOMAIN-SUFFIX,ubuntu.com
