@@ -1,3 +1,7 @@
 payload:
   # > H動漫
   - DOMAIN-SUFFIX,hanime1.me
+
+  # > IP Address Tools
+  - DOMAIN-SUFFIX,ipaddressguide.com
+  - DOMAIN-SUFFIX,hexasoft.com.my
