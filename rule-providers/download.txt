@@ -13,5 +13,8 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,lede-project.org
 
+  # > Plex TV
+  - DOMAIN-SUFFIX,plex.tv
+
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
