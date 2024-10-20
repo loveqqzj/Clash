@@ -8,7 +8,3 @@ payload:
   # > Microsoft
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,xboxlive.com
-
-  # > IP Address Tools
-  - DOMAIN-SUFFIX,ipaddressguide.com
-  - DOMAIN-SUFFIX,hexasoft.com.my
