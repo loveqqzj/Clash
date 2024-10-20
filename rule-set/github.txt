@@ -1,4 +1,4 @@
- payload:
+payload:
   # > GitHub
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
