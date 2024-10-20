@@ -10,6 +10,19 @@ payload:
   - DOMAIN-SUFFIX,blogjav.net
   - DOMAIN-SUFFIX,pixhost.to
 
+  # > CavPorn
+  - DOMAIN-SUFFIX,cavporn.com
+  - DOMAIN-SUFFIX,jb-aiwei.cc
+  - DOMAIN-SUFFIX,canadacache.com
+  - DOMAIN-SUFFIX,rmhfrtnd.com
+  - DOMAIN-SUFFIX,histats.com
+
+  # > H動漫
+  - DOMAIN-SUFFIX,hanime1.me
+
+  # > iWara.TV
+  - DOMAIN-SUFFIX,iwara.tv
+
   # > Javlibrary
   - DOMAIN-SUFFIX,javlibrary.com
 
@@ -24,6 +37,15 @@ payload:
   - DOMAIN-SUFFIX,javstore.net
   - DOMAIN-SUFFIX,javcdn.cc
 
+  # > JavCC
+  - DOMAIN-SUFFIX,javcc.cc
+  - DOMAIN-SUFFIX,javcc.com
+
+  # > JavDB
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,jdbimgs.com
+  - DOMAIN-SUFFIX,jdbstatic.com
+
 # > JavGo
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,skyearth.xyz
@@ -31,13 +53,36 @@ payload:
   - DOMAIN-SUFFIX,javplayer.me
   - DOMAIN,client-rapi-us-west.recombee.com
 
+# > JavWide
+  - DOMAIN-SUFFIX,javwide.com
+  - DOMAIN-SUFFIX,javwide.tv
+
+# > JustAV
+  - DOMAIN-SUFFIX,hkporn.net
+  - DOMAIN-SUFFIX,justav.net
+  - DOMAIN-SUFFIX,twporn.net
+
   # > 萌幻之乡
-  - DOMAIN-SUFFIX,hmoeh.com
+  - DOMAIN-SUFFIX,moe-acg.com
+  - DOMAIN-SUFFIX,image.acg.lol
   - DOMAIN-SUFFIX,hmoe.link
   - DOMAIN-SUFFIX,xhacgn.com
   - DOMAIN-SUFFIX,imgcap.xyz
-  - DOMAIN-SUFFIX,cdn.jsdelivr.net
-  - DOMAIN-SUFFIX,chkaja.com
+  # > 运行状态
+  - DOMAIN-SUFFIX,status.hmoe.top
+
+  # > MissAV
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,nineyu.com
+  - DOMAIN-SUFFIX,surrit.com
+  - DOMAIN-SUFFIX,eightcha.com
+  - DOMAIN,client-rapi-missav.recombee.com
+
+# > Netflav
+  - DOMAIN-SUFFIX,netflav.com
+  - DOMAIN-SUFFIX,netflav1.com
+  - DOMAIN-SUFFIX,netflav5.com
+  - DOMAIN-KEYWORD,netflav
 
   # > SiS001
   - DOMAIN-SUFFIX,sis001.com
