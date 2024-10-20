@@ -3,6 +3,9 @@ payload:
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
 
+  # > RAKKOTOOLS
+  - DOMAIN-SUFFIX,rakko.tools
+
   # > Turgame
   - DOMAIN-SUFFIX,turgame.com
 
