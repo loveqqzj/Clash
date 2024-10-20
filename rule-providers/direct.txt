@@ -38,9 +38,3 @@ payload:
   - DOMAIN-SUFFIX,merck.com
   - DOMAIN-SUFFIX,ghh.digital
   - DOMAIN-SUFFIX,msdprivacy.com
-
-# > Debian
-  - DOMAIN-SUFFIX,debian.org
-  - DOMAIN,chuangtzu.ftp.acc.umu.se
-  # > Ubuntu
-  - DOMAIN-SUFFIX,ubuntu.com
