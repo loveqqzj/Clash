@@ -7,4 +7,5 @@ payload:
 
   # > Microsoft
   - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,storage.live.com
   - DOMAIN-SUFFIX,xboxlive.com
