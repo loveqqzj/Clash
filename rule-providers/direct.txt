@@ -1,9 +1,6 @@
 payload:
   # > other
-  - DOMAIN-KEYWORD,fuliba
-  - DOMAIN-SUFFIX,mpyit.com
-  - DOMAIN-SUFFIX,dama.lu
-  - DOMAIN-SUFFIX,423down.com
+
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,adrules.top
   - DOMAIN-SUFFIX,123pan.com
@@ -15,18 +12,18 @@ payload:
   - DOMAIN-SUFFIX,asuscomm.com
   - DOMAIN-SUFFIX,myqnapcloud.com
 
-# > Debian
-  - DOMAIN-SUFFIX,debian.org
-  - DOMAIN,chuangtzu.ftp.acc.umu.se
-
   # > 影视网站
   - DOMAIN-KEYWORD,yjys
   - DOMAIN-KEYWORD,btbtt
 
   # > Forum & Blog
+  - DOMAIN-KEYWORD,fuliba
+  - DOMAIN-SUFFIX,423down.com
+  - DOMAIN-SUFFIX,appinn.com
+  - DOMAIN-SUFFIX,dama.lu
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,justmysocks.in
-  - DOMAIN-SUFFIX,appinn.com
+  - DOMAIN-SUFFIX,mpyit.com
 
   # > IP查询网站
   - DOMAIN-SUFFIX,ipip.net
@@ -42,5 +39,8 @@ payload:
   - DOMAIN-SUFFIX,ghh.digital
   - DOMAIN-SUFFIX,msdprivacy.com
 
+# > Debian
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN,chuangtzu.ftp.acc.umu.se
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
