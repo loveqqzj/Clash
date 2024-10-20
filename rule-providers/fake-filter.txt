@@ -14,18 +14,6 @@ payload:
   - DOMAIN,stun.l.google.com
   - DOMAIN,na.b.g-tun.com
 
-# > QQ登录
-  - DOMAIN,localhost.ptlogin2.qq.com
-  - DOMAIN,localhost.sec.qq.com
-
 # > Windows本地连接检测
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
-
-# > 迅雷
-  - DOMAIN-SUFFIX,sandai.net
-  - DOMAIN-SUFFIX,n0808.com
-
-# > 招商银行
-  - DOMAIN-SUFFIX,cmbchina.com
-  - DOMAIN-SUFFIX,cmbimg.com
