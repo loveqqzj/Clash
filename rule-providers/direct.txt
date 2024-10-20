@@ -4,18 +4,23 @@ payload:
   - DOMAIN-SUFFIX,adrules.top
   - DOMAIN-SUFFIX,mirror.ghproxy.com
 
-  # > Currency Converter Plus
+  # > 哔嘀影视
+  - DOMAIN-KEYWORD,yjys
+  - DOMAIN-SUFFIX,bdys.me
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,pddpic.com
+  - DOMAIN-SUFFIX,nbpicture.xyz
+  - DOMAIN,sf16-sg-default.akamaized.net
+
+  # > BT之家
+  - DOMAIN-KEYWORD,btbtt
+
+  # > Chrome插件：货币转换Plus
   - DOMAIN-SUFFIX,oeo.li
 
   # > DDNS
   - DOMAIN-SUFFIX,asuscomm.com
   - DOMAIN-SUFFIX,myqnapcloud.com
-
-  # > 影视网站
-  - DOMAIN-KEYWORD,yjys
-  - DOMAIN-SUFFIX,nbpicture.xyz
-  - DOMAIN,sf16-sg-default.akamaized.net
-  - DOMAIN-KEYWORD,btbtt
 
   # > Forum & Blog
   - DOMAIN-KEYWORD,fuliba
@@ -39,3 +44,4 @@ payload:
   - DOMAIN-SUFFIX,merck.com
   - DOMAIN-SUFFIX,ghh.digital
   - DOMAIN-SUFFIX,msdprivacy.com
+
