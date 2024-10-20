@@ -1,5 +1,10 @@
 payload:
-  # > Debian
+  # > 网盘
+  - DOMAIN-KEYWORD,filen
+  - DOMAIN-SUFFIX,pixeldrain.com
+  - DOMAIN-SUFFIX,katfile.com
+
+# > Debian
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN,chuangtzu.ftp.acc.umu.se
 
