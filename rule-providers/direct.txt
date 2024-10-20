@@ -1,9 +1,8 @@
 payload:
   # > other
-
-  - DOMAIN-SUFFIX,mirror.ghproxy.com
-  - DOMAIN-SUFFIX,adrules.top
   - DOMAIN-SUFFIX,123pan.com
+  - DOMAIN-SUFFIX,adrules.top
+  - DOMAIN-SUFFIX,mirror.ghproxy.com
 
   # > Currency Converter Plus
   - DOMAIN-SUFFIX,oeo.li
