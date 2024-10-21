@@ -19,6 +19,9 @@ payload:
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,metacubex.one
 
+  # > Cloudfront
+  - DOMAIN-SUFFIX,cloudfront.net
+
   # > Daum Potplayer
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,daumcdn.net
