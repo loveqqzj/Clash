@@ -100,5 +100,8 @@ payload:
   - DOMAIN-SUFFIX,mylcloud.net
   - DOMAIN-SUFFIX,wwwicloud.com
 
+  # > Facetime
+  - IP-CIDR,17.252.203.250/18
+
   # > Shazam
   - DOMAIN-SUFFIX,shazam.com
