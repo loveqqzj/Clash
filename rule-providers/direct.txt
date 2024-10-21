@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,default.akamaized.net
   - DOMAIN,p16-tiktokcdn-com.toutiao50.com
   - DOMAIN,p16-tm-sg.tiktokmusic.me
+  - DOMAIN,lf16-secsdk.bitssec.com
 
   # > BT之家
   - DOMAIN-KEYWORD,btbtt
