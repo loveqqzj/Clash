@@ -84,6 +84,10 @@ payload:
   - DOMAIN-SUFFIX,netflav5.com
   - DOMAIN-KEYWORD,netflav
 
+  # > Prestige
+  - DOMAIN-SUFFIX,prestige-av.com
+  - DOMAIN-SUFFIX,mgstage.com
+
   # > SiS001
   - DOMAIN-SUFFIX,sis001.com
 
