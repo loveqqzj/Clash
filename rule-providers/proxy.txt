@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,brightcove.net
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,bootstrapcdn.com
 
   # > Clash
   - DOMAIN-SUFFIX,clashverge.dev
