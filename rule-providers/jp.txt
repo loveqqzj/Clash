@@ -4,3 +4,7 @@ payload:
 
   # > RAKKOTOOLS
   - DOMAIN-SUFFIX,rakko.tools
+
+  # > Prestige
+  - DOMAIN-SUFFIX,prestige-av.com
+  - DOMAIN-SUFFIX,mgstage.com
