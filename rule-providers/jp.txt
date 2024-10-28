@@ -18,6 +18,10 @@ payload:
   # > AVWIKI
   - DOMAIN-SUFFIX,av-wiki.net
 
+  # > fc2hub
+  - DOMAIN-SUFFIX,javten.com
+  - DOMAIN-SUFFIX,fc2.com
+
   # > Prestige
   - DOMAIN-SUFFIX,prestige-av.com
   - DOMAIN-SUFFIX,mgstage.com
