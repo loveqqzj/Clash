@@ -5,6 +5,10 @@ payload:
   # > RAKKOTOOLS
   - DOMAIN-SUFFIX,rakko.tools
 
+  # > 1Pondo
+  - DOMAIN-SUFFIX,1pondo.tv
+  - DOMAIN-SUFFIX,d2pass.com
+
   # > Prestige
   - DOMAIN-SUFFIX,prestige-av.com
   - DOMAIN-SUFFIX,mgstage.com
