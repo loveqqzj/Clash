@@ -9,6 +9,9 @@ payload:
   - DOMAIN-SUFFIX,1pondo.tv
   - DOMAIN-SUFFIX,d2pass.com
 
+  # > Arzon
+  - DOMAIN-SUFFIX,arzon.jp
+
   # > Prestige
   - DOMAIN-SUFFIX,prestige-av.com
   - DOMAIN-SUFFIX,mgstage.com
