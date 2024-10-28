@@ -12,6 +12,12 @@ payload:
   # > Arzon
   - DOMAIN-SUFFIX,arzon.jp
 
+  # > AVbase
+  - DOMAIN-SUFFIX,avbase.net
+
+  # > AVWIKI
+  - DOMAIN-SUFFIX,av-wiki.net
+
   # > Prestige
   - DOMAIN-SUFFIX,prestige-av.com
   - DOMAIN-SUFFIX,mgstage.com
