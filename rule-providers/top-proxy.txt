@@ -12,3 +12,4 @@ payload:
 
   # > mefcl软件站
   - DOMAIN-SUFFIX,mefcl.com
+  - DOMAIN-SUFFIX,ax1x.com
