@@ -1,8 +1,4 @@
 payload:
-  # > 哔嘀影视
-  - DOMAIN-KEYWORD,yjys
-  - DOMAIN-SUFFIX,bdys.me
-
 # > Firefox addons
   - DOMAIN,addons.mozilla.org
 
