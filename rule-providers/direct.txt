@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,mirror.ghproxy.com
 
   # > 哔嘀影视
+  - DOMAIN-KEYWORD,yjys
+  - DOMAIN-SUFFIX,bdys.me
   - DOMAIN-SUFFIX,qpic.cn
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,nbpicture.xyz
