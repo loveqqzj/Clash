@@ -1,7 +1,6 @@
 payload:
   # > other
   - DOMAIN-SUFFIX,123pan.com
-  - DOMAIN-SUFFIX,adrules.top
   - DOMAIN-SUFFIX,mirror.ghproxy.com
 
   # > 哔嘀影视
