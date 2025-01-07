@@ -1,5 +1,6 @@
 payload:
   # > other
+  - DOMAIN-SUFFIX,adrules.top
   - DOMAIN-SUFFIX,rizonesoft.com
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,driverpack.io
