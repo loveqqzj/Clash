@@ -6,6 +6,7 @@ payload:
   # > DDNS
   - DOMAIN-SUFFIX,asuscomm.com
   - DOMAIN-SUFFIX,myqnapcloud.com
+  - DOMAIN-SUFFIX,mycloudnas.com
 
   # > Turgame
   - DOMAIN-SUFFIX,turgame.com
