@@ -54,6 +54,10 @@ payload:
   - DOMAIN-SUFFIX,devmate.com
   - DOMAIN-SUFFIX,devmate.io
 
+# > iTunes Gift Card
+  - DOMAIN-SUFFIX,oyunfor.com
+  - DOMAIN-SUFFIX,turgame.com
+
   # > SMS-Activate
   - DOMAIN,cvobcl-launches.appsflyersdk.com
   - DOMAIN,cvobcl-skadsdk.appsflyersdk.com
