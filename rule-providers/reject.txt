@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-KEYWORD,ad-sg.ibyteimg.com
+  - DOMAIN-KEYWORD,ad.x8o.de
