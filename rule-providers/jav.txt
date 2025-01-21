@@ -45,6 +45,24 @@ payload:
   - DOMAIN-SUFFIX,javplayer.me
   - DOMAIN,client-rapi-us-west.recombee.com
 
+# > Jav老司机
+  - DOMAIN-SUFFIX,123av.com
+  - DOMAIN-SUFFIX,18sex.org
+  - DOMAIN-SUFFIX,av01.tv
+  - DOMAIN-SUFFIX,avjoy.me
+  - DOMAIN-SUFFIX,bestjavporn.com
+  - DOMAIN-SUFFIX,evojav.pro
+  - DOMAIN-SUFFIX,ggjav.com
+  - DOMAIN-SUFFIX,hayav.com
+  - DOMAIN-SUFFIX,highporn.net
+  - DOMAIN-SUFFIX,jav.guru
+  - DOMAIN-SUFFIX,javgo.to
+  - DOMAIN-SUFFIX,javhhh.com
+  - DOMAIN-SUFFIX,javmenu.com
+  - DOMAIN-SUFFIX,javmost.cx
+  - DOMAIN-SUFFIX,paipancon.com
+  - DOMAIN-SUFFIX,supjav.com
+
 # > JavWide
   - DOMAIN-SUFFIX,javwide.com
   - DOMAIN-SUFFIX,javwide.tv
