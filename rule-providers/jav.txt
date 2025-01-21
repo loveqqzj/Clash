@@ -56,6 +56,8 @@ payload:
 
   # > 萌幻之乡
   - DOMAIN-SUFFIX,mhh1.com
+  - DOMAIN,301.x8o.de
+  - DOMAIN,cdn.inn-studio.com
   - DOMAIN-SUFFIX,image.acg.lol
   - DOMAIN-SUFFIX,hmoe.link
   - DOMAIN-SUFFIX,xhacgn.com
@@ -66,6 +68,7 @@ payload:
   # > MissAV
   - DOMAIN-SUFFIX,missav123.com
   - DOMAIN-SUFFIX,missav.ws
+  - DOMAIN-SUFFIX,fourhoi.com
   - DOMAIN-SUFFIX,nineyu.com
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,eightcha.com
