@@ -2,5 +2,10 @@ payload:
   # > H動漫
   - DOMAIN-SUFFIX,hanime1.me
 
+  # > JavDB
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,jdbimgs.com
+  - DOMAIN-SUFFIX,jdbstatic.com
+
   # > Just My Socks
   - DOMAIN-SUFFIX,justmysocks3.net
