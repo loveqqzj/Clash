@@ -17,9 +17,6 @@ payload:
   - DOMAIN-SUFFIX,rmhfrtnd.com
   - DOMAIN-SUFFIX,histats.com
 
-  # > H動漫
-  - DOMAIN-SUFFIX,hanime1.me
-
   # > iWara.TV
   - DOMAIN-SUFFIX,iwara.tv
 
@@ -40,11 +37,6 @@ payload:
   # > JavCC
   - DOMAIN-SUFFIX,javcc.cc
   - DOMAIN-SUFFIX,javcc.com
-
-  # > JavDB
-  - DOMAIN-SUFFIX,javdb.com
-  - DOMAIN-SUFFIX,jdbimgs.com
-  - DOMAIN-SUFFIX,jdbstatic.com
 
 # > JavGo
   - DOMAIN-SUFFIX,njav.tv
