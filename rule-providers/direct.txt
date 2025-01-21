@@ -2,6 +2,7 @@ payload:
   # > other
   - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,darkreader.app
 
   # > 哔嘀影视
   - DOMAIN-KEYWORD,xlys
