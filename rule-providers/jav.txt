@@ -55,7 +55,7 @@ payload:
   - DOMAIN-SUFFIX,twporn.net
 
   # > 萌幻之乡
-  - DOMAIN-SUFFIX,moe-acg.com
+  - DOMAIN-SUFFIX,mhh1.com
   - DOMAIN-SUFFIX,image.acg.lol
   - DOMAIN-SUFFIX,hmoe.link
   - DOMAIN-SUFFIX,xhacgn.com
@@ -64,7 +64,8 @@ payload:
   - DOMAIN-SUFFIX,status.hmoe.top
 
   # > MissAV
-  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,missav123.com
+  - DOMAIN-SUFFIX,missav.ws
   - DOMAIN-SUFFIX,nineyu.com
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,eightcha.com
