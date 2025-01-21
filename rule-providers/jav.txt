@@ -58,12 +58,13 @@ payload:
   - DOMAIN-SUFFIX,mhh1.com
   - DOMAIN,301.x8o.de
   - DOMAIN,cdn.inn-studio.com
+  - DOMAIN,sdn.geekzu.org
+  - DOMAIN,p0.picjs.xyz
+  - DOMAIN,gw.ipfs-lens.dev
   - DOMAIN-SUFFIX,image.acg.lol
   - DOMAIN-SUFFIX,hmoe.link
   - DOMAIN-SUFFIX,xhacgn.com
   - DOMAIN-SUFFIX,imgcap.xyz
-  # > 运行状态
-  - DOMAIN-SUFFIX,status.hmoe.top
 
   # > MissAV
   - DOMAIN-SUFFIX,missav123.com
