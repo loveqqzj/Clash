@@ -8,6 +8,9 @@ payload:
   - DOMAIN-SUFFIX,twdown.net
   - DOMAIN-SUFFIX,printfriendly.com
   - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-KEYWORD,filen
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,polyfill.io
   - DOMAIN-SUFFIX,linux.do
@@ -16,6 +19,9 @@ payload:
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,zi-scripts.com
 
   # > Clash
   - DOMAIN-SUFFIX,clashverge.dev
@@ -27,6 +33,10 @@ payload:
   # > Daum Potplayer
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,daumcdn.net
+
+  # > DDNS
+  - DOMAIN-SUFFIX,noip.com
+  - DOMAIN-SUFFIX,changeip.com
 
   # > DeepL
   - DOMAIN-SUFFIX,deepl.com
