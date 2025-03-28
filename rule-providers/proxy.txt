@@ -2,7 +2,6 @@ payload:
   # > other
   - DOMAIN-SUFFIX,adrules.top
   - DOMAIN-SUFFIX,rizonesoft.com
-  - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,driverpack.io
   - DOMAIN-SUFFIX,giveawayoftheday.com
   - DOMAIN-SUFFIX,twdown.net
@@ -22,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,zi-scripts.com
+  - DOMAIN-SUFFIX,stripe.com
 
   # > Clash
   - DOMAIN-SUFFIX,clashverge.dev
