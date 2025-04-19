@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,hanime1.me
 
   # > JavDB
-  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-KEYWORD,javdb
   - DOMAIN-SUFFIX,jdbimgs.com
   - DOMAIN-SUFFIX,jdbstatic.com
 
