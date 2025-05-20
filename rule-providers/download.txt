@@ -21,3 +21,7 @@ payload:
 
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
+
+  # > H動漫
+  - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,hembed.com
