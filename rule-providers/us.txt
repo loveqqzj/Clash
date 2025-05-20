@@ -1,7 +1,4 @@
 payload:
-  # > H動漫
-  - DOMAIN-SUFFIX,hanime1.me
-
   # > JavDB
   - DOMAIN-KEYWORD,javdb
   - DOMAIN-SUFFIX,jdbimgs.com
