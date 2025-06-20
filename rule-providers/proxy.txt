@@ -51,6 +51,11 @@ payload:
   - DOMAIN-SUFFIX,faststonesoft.net
   - DOMAIN-SUFFIX,imagingtips.com
 
+  # > Finebi
+  - DOMAIN-SUFFIX,finebi.com
+  - DOMAIN-SUFFIX,fanruan.com
+  - DOMAIN-SUFFIX,fanruanclub.com
+
   # > Forum & Blog
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,duyaoss.com
