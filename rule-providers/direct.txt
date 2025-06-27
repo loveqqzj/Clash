@@ -5,8 +5,6 @@ payload:
   - DOMAIN-SUFFIX,darkreader.app
 
   # > 哔嘀影视
-  - DOMAIN-KEYWORD,xlys
-  - DOMAIN-SUFFIX,bdys.me
   - DOMAIN-SUFFIX,qpic.cn
   - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,nbpicture.xyz
