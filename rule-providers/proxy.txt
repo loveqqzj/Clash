@@ -23,6 +23,10 @@ payload:
   - DOMAIN-SUFFIX,zi-scripts.com
   - DOMAIN-SUFFIX,stripe.com
 
+  # > 哔嘀影视
+  - DOMAIN-KEYWORD,xlys
+  - DOMAIN-KEYWORD,bdys
+
   # > Clash
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,metacubex.one
