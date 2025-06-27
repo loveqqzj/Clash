@@ -27,6 +27,10 @@ payload:
   - DOMAIN-KEYWORD,xlys
   - DOMAIN-KEYWORD,bdys
 
+  # > 海绵小站
+  - DOMAIN-SUFFIX,kkapik.com
+  - DOMAIN-SUFFIX,hmxz.org
+
   # > Clash
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,metacubex.one
