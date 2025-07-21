@@ -31,6 +31,11 @@ payload:
   - DOMAIN-SUFFIX,kkapik.com
   - DOMAIN-SUFFIX,hmxz.org
 
+  # > Blog
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,mpyit.com
+  - DOMAIN-KEYWORD,fuliba
+
   # > Clash
   - DOMAIN-SUFFIX,clashverge.dev
   - DOMAIN-SUFFIX,metacubex.one
