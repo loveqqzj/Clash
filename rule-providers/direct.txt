@@ -25,13 +25,10 @@ payload:
   - DOMAIN-SUFFIX,myqnapcloud.com
 
   # > Forum & Blog
-  - DOMAIN-KEYWORD,fuliba
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,appinn.com
   - DOMAIN-SUFFIX,dama.lu
-  - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,justmysocks.in
-  - DOMAIN-SUFFIX,mpyit.com
 
   # > IP查询网站
   - DOMAIN-SUFFIX,ipip.net
