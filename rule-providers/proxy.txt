@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,printfriendly.com
   - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-KEYWORD,filen
-  - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,pixeldrain.com
   - DOMAIN-SUFFIX,plyr.io
   - DOMAIN-SUFFIX,polyfill.io
