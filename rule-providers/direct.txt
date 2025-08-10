@@ -1,7 +1,8 @@
 payload:
   # > other
   - DOMAIN-SUFFIX,123pan.com
-  - DOMAIN-SUFFIX,mirror.ghproxy.com
+  - DOMAIN-SUFFIX,ghproxy.com
+  - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,darkreader.app
 
   # > 哔嘀影视
