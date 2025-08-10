@@ -1,8 +1,0 @@
-payload:
-  # > JavDB
-  - DOMAIN-KEYWORD,javdb
-  - DOMAIN-SUFFIX,jdbimgs.com
-  - DOMAIN-SUFFIX,jdbstatic.com
-
-  # > Just My Socks
-  - DOMAIN-SUFFIX,justmysocks3.net
