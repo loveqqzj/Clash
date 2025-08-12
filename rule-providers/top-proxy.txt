@@ -10,4 +10,7 @@ payload:
   - DOMAIN-SUFFIX,storage.live.com
   - DOMAIN-SUFFIX,xboxlive.com
 
+  # > minisforum
   - DOMAIN-SUFFIX,minisforum.com
+  - DOMAIN-SUFFIX,mambasms.com
+  - DOMAIN-SUFFIX,shopifycdn.com
