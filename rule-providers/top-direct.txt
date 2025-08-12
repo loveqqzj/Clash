@@ -27,3 +27,5 @@ payload:
   - DOMAIN-KEYWORD,prod.do.dsp.mp.microsoft.com
   - DOMAIN-KEYWORD,windows.com.akadns.net
   - DOMAIN-SUFFIX,officecdn.microsoft.com
+
+  - DOMAIN-SUFFIX,shopify.com
