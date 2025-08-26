@@ -28,7 +28,6 @@ payload:
   # > Forum & Blog
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,appinn.com
-  - DOMAIN-SUFFIX,dama.lu
   - DOMAIN-SUFFIX,justmysocks.in
 
   # > IP查询网站
