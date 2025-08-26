@@ -29,8 +29,10 @@ payload:
   # > 海绵小站
   - DOMAIN-SUFFIX,kkapik.com
   - DOMAIN-SUFFIX,hmxz.org
+  - DOMAIN-SUFFIX,leijing1.com
 
   # > Blog
+  - DOMAIN-SUFFIX,dama.lu
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,mpyit.com
   - DOMAIN-KEYWORD,fuliba
