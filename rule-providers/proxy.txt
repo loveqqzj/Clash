@@ -29,7 +29,7 @@ payload:
   # > 海绵小站
   - DOMAIN-SUFFIX,kkapik.com
   - DOMAIN-SUFFIX,hmxz.org
-  - DOMAIN-KEYWORD,,leijing
+  - DOMAIN-KEYWORD,leijing
 
   # > Blog
   - DOMAIN-SUFFIX,dama.lu
