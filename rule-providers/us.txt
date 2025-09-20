@@ -1,3 +1,4 @@
 payload:
   # > JavDB
   - DOMAIN-KEYWORD,javdb
+  - DOMAIN-SUFFIX,jdbstatic.com
