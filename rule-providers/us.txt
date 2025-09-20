@@ -1,3 +1,3 @@
 payload:
-  # > 网盘
+  # > JavDB
   - DOMAIN-KEYWORD,javdb
