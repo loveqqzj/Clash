@@ -25,3 +25,8 @@ payload:
   # > Prestige
   - DOMAIN-SUFFIX,prestige-av.com
   - DOMAIN-SUFFIX,mgstage.com
+
+  # > Tokyo-hot
+  - DOMAIN-SUFFIX,tokyo-hot.com
+  - DOMAIN-SUFFIX,st-hatena.com
+  - DOMAIN-SUFFIX,hatena.ne.jp
