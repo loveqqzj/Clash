@@ -19,6 +19,9 @@ payload:
   - DOMAIN-SUFFIX,amagi.tv
   - DOMAIN-SUFFIX,frequency.stream
 
+  # > PVE
+  - DOMAIN-SUFFIX,proxmox.com
+
   # > Ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
 
