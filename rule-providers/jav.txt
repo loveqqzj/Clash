@@ -59,10 +59,6 @@ payload:
   - DOMAIN-SUFFIX,paipancon.com
   - DOMAIN-SUFFIX,supjav.com
 
-# > JavWide
-  - DOMAIN-SUFFIX,javwide.com
-  - DOMAIN-SUFFIX,javwide.tv
-
 # > JustAV
   - DOMAIN-SUFFIX,hkporn.net
   - DOMAIN-SUFFIX,justav.net
