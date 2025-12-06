@@ -34,10 +34,6 @@ payload:
   - DOMAIN-SUFFIX,javstore.net
   - DOMAIN-SUFFIX,javcdn.cc
 
-  # > JavCC
-  - DOMAIN-SUFFIX,javcc.cc
-  - DOMAIN-SUFFIX,javcc.com
-
 # > JavGo
   - DOMAIN-SUFFIX,njav.tv
   - DOMAIN-SUFFIX,skyearth.xyz
