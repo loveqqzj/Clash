@@ -34,7 +34,7 @@ payload:
   - DOMAIN-SUFFIX,javplayer.me
   - DOMAIN,client-rapi-us-west.recombee.com
 
-# > Jav老司机
+# > Jav老司机脚本
   - DOMAIN-SUFFIX,123av.com
   - DOMAIN-SUFFIX,18sex.org
   - DOMAIN-SUFFIX,av01.tv
@@ -51,6 +51,15 @@ payload:
   - DOMAIN-SUFFIX,javmost.cx
   - DOMAIN-SUFFIX,paipancon.com
   - DOMAIN-SUFFIX,supjav.com
+
+# > Jav预告片花脚本
+  - DOMAIN-SUFFIX,mm-cg.com
+  - DOMAIN-SUFFIX,avgle.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,javfc2.net
+  - DOMAIN-SUFFIX,javhub.net
+  - DOMAIN-SUFFIX,wanz-factory.com
+  - DOMAIN-SUFFIX,memojav.com
 
   # > 萌幻之乡
   - DOMAIN-SUFFIX,mhh1.com
