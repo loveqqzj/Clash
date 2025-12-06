@@ -10,13 +10,6 @@ payload:
   - DOMAIN-SUFFIX,blogjav.net
   - DOMAIN-SUFFIX,pixhost.to
 
-  # > CavPorn
-  - DOMAIN-SUFFIX,cavporn.com
-  - DOMAIN-SUFFIX,jb-aiwei.cc
-  - DOMAIN-SUFFIX,canadacache.com
-  - DOMAIN-SUFFIX,rmhfrtnd.com
-  - DOMAIN-SUFFIX,histats.com
-
   # > iWara.TV
   - DOMAIN-SUFFIX,iwara.tv
 
@@ -59,11 +52,6 @@ payload:
   - DOMAIN-SUFFIX,paipancon.com
   - DOMAIN-SUFFIX,supjav.com
 
-# > JustAV
-  - DOMAIN-SUFFIX,hkporn.net
-  - DOMAIN-SUFFIX,justav.net
-  - DOMAIN-SUFFIX,twporn.net
-
   # > 萌幻之乡
   - DOMAIN-SUFFIX,mhh1.com
   - DOMAIN,301.x8o.de
@@ -75,21 +63,6 @@ payload:
   - DOMAIN-SUFFIX,hmoe.link
   - DOMAIN-SUFFIX,xhacgn.com
   - DOMAIN-SUFFIX,imgcap.xyz
-
-  # > MissAV
-  - DOMAIN-SUFFIX,missav123.com
-  - DOMAIN-SUFFIX,missav.ws
-  - DOMAIN-SUFFIX,fourhoi.com
-  - DOMAIN-SUFFIX,nineyu.com
-  - DOMAIN-SUFFIX,surrit.com
-  - DOMAIN-SUFFIX,eightcha.com
-  - DOMAIN,client-rapi-missav.recombee.com
-
-# > Netflav
-  - DOMAIN-SUFFIX,netflav.com
-  - DOMAIN-SUFFIX,netflav1.com
-  - DOMAIN-SUFFIX,netflav5.com
-  - DOMAIN-KEYWORD,netflav
 
   # > SiS001
   - DOMAIN-SUFFIX,sis001.com
