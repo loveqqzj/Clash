@@ -21,10 +21,6 @@ payload:
   # > Chrome插件：货币转换Plus
   - DOMAIN-SUFFIX,oeo.li
 
-  # > DDNS
-  - DOMAIN-SUFFIX,asuscomm.com
-  - DOMAIN-SUFFIX,myqnapcloud.com
-
   # > Forum & Blog
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,appinn.com
