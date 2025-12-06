@@ -1,10 +1,12 @@
 payload:
-  # > China Mainland
+  # > ASUS
+  - DOMAIN-SUFFIX,asuscomm.com
+  - DOMAIN-SUFFIX,asuscomm.com.cn
+
+  # > QNAP China Mainland
   - DOMAIN-SUFFIX,myqnapcloud.cn
   - DOMAIN-SUFFIX,qlinkto.cn
   - DOMAIN-SUFFIX,qnap.com.cn
-
-  # > Global
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,qlink.to
   - DOMAIN-SUFFIX,qnap.com
