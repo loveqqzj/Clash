@@ -8,8 +8,12 @@ payload:
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,mycloudnas.com
 
-  # > Turgame
+  # > 土耳其礼品卡
+  - DOMAIN-SUFFIX,seagm.com
   - DOMAIN-SUFFIX,turgame.com
+  - DOMAIN-SUFFIX,turdigital.com
+  - DOMAIN-SUFFIX,mtcgame.com
+  - DOMAIN-SUFFIX,oyunfor.com
 
 # > Windows本地连接检测
   - DOMAIN-SUFFIX,msftconnecttest.com
