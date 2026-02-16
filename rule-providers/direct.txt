@@ -40,3 +40,9 @@ payload:
   - DOMAIN-SUFFIX,ghh.digital
   - DOMAIN-SUFFIX,msdprivacy.com
 
+  # > 土耳其礼品卡
+  - DOMAIN-SUFFIX,seagm.com
+  - DOMAIN-SUFFIX,turgame.com
+  - DOMAIN-SUFFIX,turdigital.com
+  - DOMAIN-SUFFIX,mtcgame.com
+  - DOMAIN-SUFFIX,oyunfor.com
