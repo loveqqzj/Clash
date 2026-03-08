@@ -1,4 +1,8 @@
 payload:
+# > ImmTelecom
+  - DOMAIN-SUFFIX,immtelecom.com
+  - DOMAIN-SUFFIX,prodigal4936.com
+
 # > AdGuard
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org
